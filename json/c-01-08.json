@@ -1,0 +1,2862 @@
+﻿[
+    {
+        "編號":  "編號",
+        "項次":  "項次",
+        "品項名稱":  "品項名稱",
+        "單位":  "單位",
+        "決標單價":  "決標單價",
+        "廠牌型號":  "廠牌型號",
+        "契約終止日期":  "契約終止日期",
+        "產地":  "產地"
+    },
+    {
+        "編號":  "1",
+        "項次":  "2",
+        "品項名稱":  "Aruba AirWave網路管理系統50 End-System使用授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "217,736",
+        "廠牌型號":  "Aruba AirWave網路管理系統50 End-System使用授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "2",
+        "項次":  "3",
+        "品項名稱":  "Aruba IMC 標準版網路管理軟體50個設備管理授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "108,741",
+        "廠牌型號":  "Aruba IMC 標準版網路管理軟體50個設備管理授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "3",
+        "項次":  "4",
+        "品項名稱":  "Aruba IMC 標準版網路管理軟體50個設備管理擴充授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "85,950",
+        "廠牌型號":  "Aruba IMC 標準版網路管理軟體50個設備管理擴充授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "4",
+        "項次":  "5",
+        "品項名稱":  "Aruba 網路管理主系統單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "295,437",
+        "廠牌型號":  "Aruba 網路管理主系統",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "5",
+        "項次":  "31",
+        "品項名稱":  "ConquestIT攻防演練平台專業版單次最低購買數量：1、單次最高購買數量：35",
+        "單位":  "套",
+        "決標單價":  "1,035,288",
+        "廠牌型號":  "ConquestIT攻防演練平台專業版",
+        "契約終止日期":  "114/11/06",
+        "產地":  "新加坡"
+    },
+    {
+        "編號":  "6",
+        "項次":  "32",
+        "品項名稱":  "ConquestIT攻防演練平台點數單次最低購買數量：1、單次最高購買數量：225",
+        "單位":  "點數",
+        "決標單價":  "173,812",
+        "廠牌型號":  "ConquestIT攻防演練平台點數",
+        "契約終止日期":  "114/11/06",
+        "產地":  "新加坡"
+    },
+    {
+        "編號":  "7",
+        "項次":  "75",
+        "品項名稱":  "FCB金融組態基準稽核系統標準版-50U軟體授權一年保固單次最低購買數量：1、單次最高購買數量：700",
+        "單位":  "套",
+        "決標單價":  "68,454",
+        "廠牌型號":  "FCB金融組態基準稽核系統標準版-50U軟體授權一年保固",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "8",
+        "項次":  "76",
+        "品項名稱":  "FCB金融組態基準稽核系統標準版-50U軟體授權最新版單次最低購買數量：1、單次最高購買數量：175",
+        "單位":  "套",
+        "決標單價":  "273,861",
+        "廠牌型號":  "FCB金融組態基準稽核系統標準版-50U軟體授權最新版",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "9",
+        "項次":  "77",
+        "品項名稱":  "GCB政府組態基準稽核系統進階版-50U軟體授權一年保固授權單次最低購買數量：1、單次最高購買數量：800",
+        "單位":  "套",
+        "決標單價":  "60,046",
+        "廠牌型號":  "GCB政府組態基準稽核系統進階版-50U軟體授權一年保固授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "10",
+        "項次":  "78",
+        "品項名稱":  "GCB政府組態基準稽核系統進階版-50U軟體授權最新版單次最低購買數量：1、單次最高購買數量：200",
+        "單位":  "套",
+        "決標單價":  "240,228",
+        "廠牌型號":  "GCB政府組態基準稽核系統進階版-50U軟體授權最新版",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "11",
+        "項次":  "79",
+        "品項名稱":  "資訊資產風險評鑑系統Server版-適用50U軟體一年保固授權單次最低購買數量：1、單次最高購買數量：850",
+        "單位":  "套",
+        "決標單價":  "56,442",
+        "廠牌型號":  "資訊資產風險評鑑系統Server版-適用50U軟體一年保固授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "12",
+        "項次":  "80",
+        "品項名稱":  "資訊資產風險評鑑系統Server版-適用50U軟體授權最新版單次最低購買數量：1、單次最高購買數量：210",
+        "單位":  "套",
+        "決標單價":  "225,813",
+        "廠牌型號":  "資訊資產風險評鑑系統Server版-適用50U軟體授權最新版",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "13",
+        "項次":  "81",
+        "品項名稱":  "資訊資產風險評鑑系統Unix-like\u0026Mac版 -適用50U軟體一年保固授權單次最低購買數量：1、單次最高購買數量：560",
+        "單位":  "套",
+        "決標單價":  "84,070",
+        "廠牌型號":  "資訊資產風險評鑑系統Unix-like\u0026Mac版 -適用50U軟體一年保固授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "14",
+        "項次":  "82",
+        "品項名稱":  "資訊資產風險評鑑系統Unix-like\u0026Mac版 -適用50U軟體授權最新版單次最低購買數量：1、單次最高購買數量：142",
+        "單位":  "套",
+        "決標單價":  "336,325",
+        "廠牌型號":  "資訊資產風險評鑑系統Unix-like\u0026Mac版 -適用50U軟體授權最新版",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "15",
+        "項次":  "84",
+        "品項名稱":  "Forescout REM風險與暴露管理模組(100 設備一年期使用授權)-需具備Forescout基本模組單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "261,155",
+        "廠牌型號":  "Forescout REM風險與暴露管理模組(100 設備一年期使用授權)-需具備Forescout基本模組",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "16",
+        "項次":  "85",
+        "品項名稱":  "OT安全管理平台 Forescout Platform(100 assets)1年期授權含保固及維護單次最低購買數量：1、單次最高購買數量：28",
+        "單位":  "套",
+        "決標單價":  "1,375,025",
+        "廠牌型號":  "OT安全管理平台 Forescout Platform(100 assets)1年期授權含保固及維護",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "17",
+        "項次":  "90",
+        "品項名稱":  "Fortinet 資安事件管理系統 一年訂閱式授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "831,792",
+        "廠牌型號":  "Fortinet 資安事件管理系統 一年訂閱式授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "18",
+        "項次":  "91",
+        "品項名稱":  "Fortinet 集中日誌報表系統單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "167,361",
+        "廠牌型號":  "Fortinet 集中日誌報表系統",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "19",
+        "項次":  "92",
+        "品項名稱":  "Fortinet 集中日誌報表系統 一年續約授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "50,451",
+        "廠牌型號":  "Fortinet 集中日誌報表系統 一年續約授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "20",
+        "項次":  "93",
+        "品項名稱":  "Fortinet 集中日誌報表系統-紀錄數量升級 - 1 GB/Day單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "33,288",
+        "廠牌型號":  "Fortinet 集中日誌報表系統-紀錄數量升級 - 1 GB/Day",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "21",
+        "項次":  "150",
+        "品項名稱":  "ArgusHack AGH-Premium-APT 菁英戰役重現版一年訂閱授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "898,180",
+        "廠牌型號":  "ArgusHack AGH-Premium-APT 菁英戰役重現版一年訂閱授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "22",
+        "項次":  "151",
+        "品項名稱":  "ArgusHack AGH-Premium-Center 菁英攻擊演練版一年訂閱授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "2,123,357",
+        "廠牌型號":  "ArgusHack AGH-Premium-Center 菁英攻擊演練版一年訂閱授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "23",
+        "項次":  "152",
+        "品項名稱":  "ArgusHack APT 攻擊鏈腳本授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "277,452",
+        "廠牌型號":  "ArgusHack APT 攻擊鏈腳本授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "24",
+        "項次":  "153",
+        "品項名稱":  "ArgusHack 菁英攻擊演練腳本授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "734,884",
+        "廠牌型號":  "ArgusHack 菁英攻擊演練腳本授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "25",
+        "項次":  "154",
+        "品項名稱":  "Lucent Sky AVM E1 AD 整合加購模組-一年軟體續約單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "81,982",
+        "廠牌型號":  "Lucent Sky AVM E1 AD 整合加購模組-一年軟體續約",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "26",
+        "項次":  "155",
+        "品項名稱":  "Lucent Sky AVM E1 AD 整合加購模組(E1 only)-附加元件-一年訂閱軟體授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "91,272",
+        "廠牌型號":  "Lucent Sky AVM E1 AD 整合加購模組(E1 only)-附加元件-一年訂閱軟體授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "27",
+        "項次":  "156",
+        "品項名稱":  "Lucent Sky AVM E1 一年續約-E1企業版(中型團隊)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,657,379",
+        "廠牌型號":  "Lucent Sky AVM E1 一年續約-E1企業版(中型團隊)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "28",
+        "項次":  "157",
+        "品項名稱":  "Lucent Sky AVM E1 一年續約-企業版(小型團隊)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,334,580",
+        "廠牌型號":  "Lucent Sky AVM E1 一年續約-企業版(小型團隊)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "29",
+        "項次":  "158",
+        "品項名稱":  "Lucent Sky AVM E1 一年訂閱軟體授權-E1企業版(中型團隊)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,840,636",
+        "廠牌型號":  "Lucent Sky AVM E1 一年訂閱軟體授權-E1企業版(中型團隊)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "30",
+        "項次":  "159",
+        "品項名稱":  "Lucent Sky AVM E1 一年訂閱軟體授權-企業版(小型團隊)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,512,538",
+        "廠牌型號":  "Lucent Sky AVM E1 一年訂閱軟體授權-企業版(小型團隊)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "31",
+        "項次":  "160",
+        "品項名稱":  "Lucent Sky AVM E1 加購API存取權限模組-一年軟體續約單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "164,135",
+        "廠牌型號":  "Lucent Sky AVM E1 加購API存取權限模組-一年軟體續約",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "32",
+        "項次":  "161",
+        "品項名稱":  "Lucent Sky AVM E1 加購API存取權限模組(E1 Only)-附加元件-一年軟體授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "164,176",
+        "廠牌型號":  "Lucent Sky AVM E1 加購API存取權限模組(E1 Only)-附加元件-一年軟體授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "33",
+        "項次":  "162",
+        "品項名稱":  "Lucent Sky AVM E3 一年續約-企業進階版單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "2,072,387",
+        "廠牌型號":  "Lucent Sky AVM E3 一年續約-企業進階版",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "34",
+        "項次":  "163",
+        "品項名稱":  "Lucent Sky AVM E3 一年訂閱軟體授權-企業進階版單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "2,302,097",
+        "廠牌型號":  "Lucent Sky AVM E3 一年訂閱軟體授權-企業進階版",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "35",
+        "項次":  "164",
+        "品項名稱":  "Lucent Sky AVM E3 通用修正模組-附加元件 一年訂閱授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "365,902",
+        "廠牌型號":  "Lucent Sky AVM E3 通用修正模組-附加元件 一年訂閱授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "36",
+        "項次":  "165",
+        "品項名稱":  "Lucent Sky AVM On-Demand 單次程式碼掃描授權-單次掃描授權(25萬行內)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "91,272",
+        "廠牌型號":  "Lucent Sky AVM On-Demand 單次程式碼掃描授權-單次掃描授權(25萬行內)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "37",
+        "項次":  "166",
+        "品項名稱":  "Lucent Sky AVM On-Demand 單次程式碼掃描授權組-單次授權(50萬行程式內)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "153,549",
+        "廠牌型號":  "Lucent Sky AVM On-Demand 單次程式碼掃描授權組-單次授權(50萬行程式內)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "38",
+        "項次":  "167",
+        "品項名稱":  "Lucent Sky AVM S1 一年標準版續約(中型團隊)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,204,086",
+        "廠牌型號":  "Lucent Sky AVM S1 一年標準版續約(中型團隊)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "39",
+        "項次":  "168",
+        "品項名稱":  "Lucent Sky AVM S1 一年續約-標準版(小型團隊)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "905,865",
+        "廠牌型號":  "Lucent Sky AVM S1 一年續約-標準版(小型團隊)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "40",
+        "項次":  "169",
+        "品項名稱":  "Lucent Sky AVM S1 一年訂閱軟體授權-標準版(中型團隊)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,378,665",
+        "廠牌型號":  "Lucent Sky AVM S1 一年訂閱軟體授權-標準版(中型團隊)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "41",
+        "項次":  "170",
+        "品項名稱":  "Lucent Sky AVM S1 一年訂閱軟體授權-標準版(小型團隊)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,067,644",
+        "廠牌型號":  "Lucent Sky AVM S1 一年訂閱軟體授權-標準版(小型團隊)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "42",
+        "項次":  "171",
+        "品項名稱":  "Lucent Sky AVM 每增加 5 User 使用者-一年軟體訂閱授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "53,804",
+        "廠牌型號":  "Lucent Sky AVM 每增加 5 User 使用者-一年軟體訂閱授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "43",
+        "項次":  "172",
+        "品項名稱":  "Lucent Sky AVM 每增加一個Core 程式數-一年軟體訂閱授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "218,582",
+        "廠牌型號":  "Lucent Sky AVM 每增加一個Core 程式數-一年軟體訂閱授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "44",
+        "項次":  "173",
+        "品項名稱":  "Mandiant Advantage Digital Threat Monitoring-數位威脅情資一年訂閱授權單次最低購買數量：1、單次最高購買數量：9",
+        "單位":  "套",
+        "決標單價":  "4,187,653",
+        "廠牌型號":  "Mandiant Advantage Digital Threat Monitoring-數位威脅情資一年訂閱授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "45",
+        "項次":  "174",
+        "品項名稱":  "Mandiant EOD 資安專業服務包授權一年單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "2,269,836",
+        "廠牌型號":  "Mandiant EOD 資安專業服務包授權一年",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "46",
+        "項次":  "175",
+        "品項名稱":  "Micro Focus ArcSight ESM Standard Edition 250 EPS事件關聯紀錄管理套件組單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "2,526,112",
+        "廠牌型號":  "Micro Focus ArcSight ESM Standard Edition 250 EPS事件關聯紀錄管理套件組",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "47",
+        "項次":  "176",
+        "品項名稱":  "Micro Focus ArcSight ESM Standard Edition 250 EPS事件關聯紀錄管理套件組 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "631,437",
+        "廠牌型號":  "Micro Focus ArcSight ESM Standard Edition 250 EPS事件關聯紀錄管理套件組 一年軟體升級及更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "48",
+        "項次":  "177",
+        "品項名稱":  "Micro Focus ArcSight Intelligence for CrowdStrike終端AI分析模組(1000U)每年使用授權費單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "2,745,785",
+        "廠牌型號":  "Micro Focus ArcSight Intelligence for CrowdStrike終端AI分析模組(1000U)每年使用授權費",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "49",
+        "項次":  "178",
+        "品項名稱":  "Micro Focus ArcSight Logger Standard Edition 250 EPS通用日誌管理系統單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "796,242",
+        "廠牌型號":  "Micro Focus ArcSight Logger Standard Edition 250 EPS通用日誌管理系統",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "50",
+        "項次":  "179",
+        "品項名稱":  "Micro Focus ArcSight Logger Standard Edition 250 EPS通用日誌管理系統 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "201,472",
+        "廠牌型號":  "Micro Focus ArcSight Logger Standard Edition 250 EPS通用日誌管理系統 一年軟體升級及更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "51",
+        "項次":  "180",
+        "品項名稱":  "Micro Focus ArcSight Recon Standard Edition 500 EPS大數據資安威脅獵捕系統單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "2,978,207",
+        "廠牌型號":  "Micro Focus ArcSight Recon Standard Edition 500 EPS大數據資安威脅獵捕系統",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "52",
+        "項次":  "181",
+        "品項名稱":  "Micro Focus Business Process Monitor Transaction Premium Edition Unlimited Location Subscription SW E-LTU(主動模擬監控高級版) -1年訂閱單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "48,433",
+        "廠牌型號":  "Micro Focus Business Process Monitor Transaction Premium Edition Unlimited Location Subscription SW E-LTU(主動模擬監控高級版) -1年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "53",
+        "項次":  "182",
+        "品項名稱":  "Micro Focus Business Process Monitor Transaction Premium Edition Unlimited Locations(主動模擬監控高級版)單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "92,098",
+        "廠牌型號":  "Micro Focus Business Process Monitor Transaction Premium Edition Unlimited Locations(主動模擬監控高級版)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "54",
+        "項次":  "183",
+        "品項名稱":  "Micro Focus Business Process Monitor Transaction Premium Edition Unlimited Locations(主動模擬監控高級版) 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "20,349",
+        "廠牌型號":  "Micro Focus Business Process Monitor Transaction Premium Edition Unlimited Locations(主動模擬監控高級版) 一年軟體升級及更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "55",
+        "項次":  "184",
+        "品項名稱":  "Micro Focus Cloud Optimizer Premium Edition OperatiCloud Optimizer Premium Edition Operating System Instance 50 Pack for 1-4999 SW E-LTU(跨平台虛擬化效能管理)單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "303,236",
+        "廠牌型號":  "Micro Focus Cloud Optimizer Premium Edition OperatiCloud Optimizer Premium Edition Operating System Instance 50 Pack for 1-4999 SW E-LTU(跨平台虛擬化效能管理)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "56",
+        "項次":  "185",
+        "品項名稱":  "Micro Focus Cloud Optimizer Premium Edition Operating System Instance 5 Pack Subscription SW E-LTU - 1年訂閱單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "80,789",
+        "廠牌型號":  "Micro Focus Cloud Optimizer Premium Edition Operating System Instance 5 Pack Subscription SW E-LTU - 1年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "57",
+        "項次":  "186",
+        "品項名稱":  "Micro Focus Cloud Optimizer Premium Edition Operating System Instance 50 Pack for 1-4999 SW E-LTU(跨平台虛擬化效能管理)一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "90,900",
+        "廠牌型號":  "Micro Focus Cloud Optimizer Premium Edition Operating System Instance 50 Pack for 1-4999 SW E-LTU(跨平台虛擬化效能管理)一年軟體升級及更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "58",
+        "項次":  "187",
+        "品項名稱":  "Micro Focus Hybrid Cloud Management X 1 Unit Sub SW E-LTU(混合雲管理平台) - 1年訂閱授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "226,390",
+        "廠牌型號":  "Micro Focus Hybrid Cloud Management X 1 Unit Sub SW E-LTU(混合雲管理平台) - 1年訂閱授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "59",
+        "項次":  "188",
+        "品項名稱":  "Micro Focus Hybrid Cloud Management X 10 Unit SW E-LTU(混合雲管理平台)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "566,127",
+        "廠牌型號":  "Micro Focus Hybrid Cloud Management X 10 Unit SW E-LTU(混合雲管理平台)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "60",
+        "項次":  "189",
+        "品項名稱":  "Micro Focus Hybrid Cloud Management X 10 Unit SW E-LTU(混合雲管理平台)一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "141,456",
+        "廠牌型號":  "Micro Focus Hybrid Cloud Management X 10 Unit SW E-LTU(混合雲管理平台)一年軟體升級及更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "61",
+        "項次":  "190",
+        "品項名稱":  "Micro Focus Network Automation Ultimate Edition 50 Units SW E-LTU(網路組態變更與自動化)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "444,793",
+        "廠牌型號":  "Micro Focus Network Automation Ultimate Edition 50 Units SW E-LTU(網路組態變更與自動化)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "62",
+        "項次":  "191",
+        "品項名稱":  "Micro Focus Network Node Manager i Premium Edition 1 Unit Subscription SW E-LTU(網路故障與效能管理) -1年訂閱單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "96,967",
+        "廠牌型號":  "Micro Focus Network Node Manager i Premium Edition 1 Unit Subscription SW E-LTU(網路故障與效能管理) -1年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "63",
+        "項次":  "192",
+        "品項名稱":  "Micro Focus Network Node Manager i Premium Edition 50 Units SW E-LTU(網路故障與效能管理)單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "242,568",
+        "廠牌型號":  "Micro Focus Network Node Manager i Premium Edition 50 Units SW E-LTU(網路故障與效能管理)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "64",
+        "項次":  "193",
+        "品項名稱":  "Micro Focus Network Node Manager i Premium Edition 50 Units SW E-LTU(網路故障與效能管理)一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "72,700",
+        "廠牌型號":  "Micro Focus Network Node Manager i Premium Edition 50 Units SW E-LTU(網路故障與效能管理)一年軟體升級及更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "65",
+        "項次":  "194",
+        "品項名稱":  "Micro Focus Network Operations Management Suite Premium Edition 1 Unit Subscription SW E-LTU(網路維運管理)單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "291,102",
+        "廠牌型號":  "Micro Focus Network Operations Management Suite Premium Edition 1 Unit Subscription SW E-LTU(網路維運管理)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "66",
+        "項次":  "195",
+        "品項名稱":  "Micro Focus Network Operations Management Suite Premium Edition 1 Unit Subscription SW E-LTU(網路維運管理) -1年訂閱單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "116,380",
+        "廠牌型號":  "Micro Focus Network Operations Management Suite Premium Edition 1 Unit Subscription SW E-LTU(網路維運管理) -1年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "67",
+        "項次":  "196",
+        "品項名稱":  "Micro Focus Network Operations Management Suite Premium Edition 50 Units SW E-LTU(網路維運管理)一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "87,260",
+        "廠牌型號":  "Micro Focus Network Operations Management Suite Premium Edition 50 Units SW E-LTU(網路維運管理)一年軟體升級及更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "68",
+        "項次":  "197",
+        "品項名稱":  "Micro Focus Operations Bridge Business Value Dashboard Add-On 15 Dashboard Pack(維運戰情室平台之業務儀表模組)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,286,644",
+        "廠牌型號":  "Micro Focus Operations Bridge Business Value Dashboard Add-On 15 Dashboard Pack(維運戰情室平台之業務儀表模組)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "69",
+        "項次":  "198",
+        "品項名稱":  "Micro Focus Operations Bridge Business Value Dashboard Add-On 15 Dashboard Pack(維運戰情室平台之業務儀表模組) 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "232,528",
+        "廠牌型號":  "Micro Focus Operations Bridge Business Value Dashboard Add-On 15 Dashboard Pack(維運戰情室平台之業務儀表模組) 一年軟體升級及更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "70",
+        "項次":  "199",
+        "品項名稱":  "Micro Focus Operations Bridge Express Edition Unit Subscription SW E-LTU(系統監控管理) -1年訂閱單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "64,611",
+        "廠牌型號":  "Micro Focus Operations Bridge Express Edition Unit Subscription SW E-LTU(系統監控管理) -1年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "71",
+        "項次":  "200",
+        "品項名稱":  "Micro Focus Operations Bridge Express Edition Unit SW E-LTU(系統監控管理)單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "161,678",
+        "廠牌型號":  "Micro Focus Operations Bridge Express Edition Unit SW E-LTU(系統監控管理)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "72",
+        "項次":  "201",
+        "品項名稱":  "Micro Focus Operations Bridge Express Edition Unit SW E-LTU(系統監控管理) 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "48,433",
+        "廠牌型號":  "Micro Focus Operations Bridge Express Edition Unit SW E-LTU(系統監控管理) 一年軟體升級及更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "73",
+        "項次":  "202",
+        "品項名稱":  "Micro Focus Operations Bridge Integration Hub 1 Instance Subscription SW E-LTU(數據整合和來源收集工具) -1年訂閱單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "808,797",
+        "廠牌型號":  "Micro Focus Operations Bridge Integration Hub 1 Instance Subscription SW E-LTU(數據整合和來源收集工具) -1年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "74",
+        "項次":  "203",
+        "品項名稱":  "Micro Focus Operations Bridge Integration Hub 1 Instance SW E-LTU(數據整合和來源收集工具)一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "505,460",
+        "廠牌型號":  "Micro Focus Operations Bridge Integration Hub 1 Instance SW E-LTU(數據整合和來源收集工具)一年軟體升級及更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "75",
+        "項次":  "204",
+        "品項名稱":  "Micro Focus Operations Bridge Integration Hub 1 Instance SW E-LTU(數據整合與來源收集工具)單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "1,819,919",
+        "廠牌型號":  "Micro Focus Operations Bridge Integration Hub 1 Instance SW E-LTU(數據整合與來源收集工具)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "76",
+        "項次":  "205",
+        "品項名稱":  "Micro Focus Operations Bridge Management Pack 5 Pack OS Instance(維運戰情室平台之擴充管理套件)單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "280,280",
+        "廠牌型號":  "Micro Focus Operations Bridge Management Pack 5 Pack OS Instance(維運戰情室平台之擴充管理套件)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "77",
+        "項次":  "206",
+        "品項名稱":  "Micro Focus Operations Bridge Management Pack 5 Pack OS Instance(維運戰情室平台之擴充管理套件) 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "62,322",
+        "廠牌型號":  "Micro Focus Operations Bridge Management Pack 5 Pack OS Instance(維運戰情室平台之擴充管理套件) 一年軟體升級及更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "78",
+        "項次":  "207",
+        "品項名稱":  "Micro Focus Operations Bridge Premium Edition Unit SW E-LTU(維運戰情室平台高級版)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "647,017",
+        "廠牌型號":  "Micro Focus Operations Bridge Premium Edition Unit SW E-LTU(維運戰情室平台高級版)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "79",
+        "項次":  "208",
+        "品項名稱":  "Micro Focus Operations Bridge Premium Edition Unit SW E-LTU(維運戰情室平台高級版) - 1年訂閱單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "403,079",
+        "廠牌型號":  "Micro Focus Operations Bridge Premium Edition Unit SW E-LTU(維運戰情室平台高級版) - 1年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "80",
+        "項次":  "209",
+        "品項名稱":  "Micro Focus Operations Bridge Premium Edition Unit SW E-LTU(維運戰情室平台高級版) 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "258,746",
+        "廠牌型號":  "Micro Focus Operations Bridge Premium Edition Unit SW E-LTU(維運戰情室平台高級版) 一年軟體升級及更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "81",
+        "項次":  "210",
+        "品項名稱":  "Micro Focus Operations Bridge Suite Premium Edition 5 Node Pack(維運戰情室平台高級版)單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "271,804",
+        "廠牌型號":  "Micro Focus Operations Bridge Suite Premium Edition 5 Node Pack(維運戰情室平台高級版)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "82",
+        "項次":  "211",
+        "品項名稱":  "Micro Focus Operations Bridge Suite Premium Edition 5 Node Pack(維運戰情室平台高級版) 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "60,438",
+        "廠牌型號":  "Micro Focus Operations Bridge Suite Premium Edition 5 Node Pack(維運戰情室平台高級版) 一年軟體升級及更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "83",
+        "項次":  "212",
+        "品項名稱":  "Micro Focus Operations Bridge Suite Ultimate Edition 50 Node Pack(維運戰情室平台終級版)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "3,989,268",
+        "廠牌型號":  "Micro Focus Operations Bridge Suite Ultimate Edition 50 Node Pack(維運戰情室平台終級版)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "84",
+        "項次":  "213",
+        "品項名稱":  "Micro Focus Operations Bridge Suite Ultimate Edition 50 Node Pack(維運戰情室平台終級版) 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "886,297",
+        "廠牌型號":  "Micro Focus Operations Bridge Suite Ultimate Edition 50 Node Pack(維運戰情室平台終級版) 一年軟體升級及更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "85",
+        "項次":  "214",
+        "品項名稱":  "Micro Focus Operations Bridge System Collector Add-on 5 OSI Pack(維運戰情室平台之系統監控模組)單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "192,194",
+        "廠牌型號":  "Micro Focus Operations Bridge System Collector Add-on 5 OSI Pack(維運戰情室平台之系統監控模組)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "86",
+        "項次":  "215",
+        "品項名稱":  "Micro Focus Operations Bridge System Collector Add-on 5 OSI Pack(維運戰情室平台之系統監控模組) 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "42,752",
+        "廠牌型號":  "Micro Focus Operations Bridge System Collector Add-on 5 OSI Pack(維運戰情室平台之系統監控模組) 一年軟體升級及更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "87",
+        "項次":  "216",
+        "品項名稱":  "Micro Focus Operations Bridge Ultimate Edition Unit Subscription SW E-LTU(維運戰情室平台終級版) - 1年訂閱單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,294,135",
+        "廠牌型號":  "Micro Focus Operations Bridge Ultimate Edition Unit Subscription SW E-LTU(維運戰情室平台終級版) - 1年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "88",
+        "項次":  "217",
+        "品項名稱":  "Micro Focus Operations Bridge Ultimate Edition Unit SW E-LTU(維運戰情室平台終級版) 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "889,687",
+        "廠牌型號":  "Micro Focus Operations Bridge Ultimate Edition Unit SW E-LTU(維運戰情室平台終級版) 一年軟體升級及更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "89",
+        "項次":  "218",
+        "品項名稱":  "Micro Focus Operations Bridge Ultimate Edition Unit SW E-LTUt(維運戰情室平台終級版)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "4,044,388",
+        "廠牌型號":  "Micro Focus Operations Bridge Ultimate Edition Unit SW E-LTUt(維運戰情室平台終級版)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "90",
+        "項次":  "219",
+        "品項名稱":  "Micro Focus SBM Production Concurrent User(業務流程正式區同時上線使用者)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "291,456",
+        "廠牌型號":  "Micro Focus SBM Production Concurrent User(業務流程正式區同時上線使用者)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "91",
+        "項次":  "220",
+        "品項名稱":  "Micro Focus SBM Production Concurrent User(業務流程正式區同時上線使用者) 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "66,941",
+        "廠牌型號":  "Micro Focus SBM Production Concurrent User(業務流程正式區同時上線使用者) 一年軟體升級及更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "92",
+        "項次":  "221",
+        "品項名稱":  "Micro Focus SBM Production Named User(業務流程正式區固定上線使用者)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "146,076",
+        "廠牌型號":  "Micro Focus SBM Production Named User(業務流程正式區固定上線使用者)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "93",
+        "項次":  "222",
+        "品項名稱":  "Micro Focus SBM Production Named User(業務流程正式區固定上線使用者) 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "32,493",
+        "廠牌型號":  "Micro Focus SBM Production Named User(業務流程正式區固定上線使用者) 一年軟體升級及更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "94",
+        "項次":  "223",
+        "品項名稱":  "Micro Focus SBM Production Server(業務流程正式區伺服器)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "326,576",
+        "廠牌型號":  "Micro Focus SBM Production Server(業務流程正式區伺服器)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "95",
+        "項次":  "224",
+        "品項名稱":  "Micro Focus SBM Production Server(業務流程正式區伺服器) 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "75,019",
+        "廠牌型號":  "Micro Focus SBM Production Server(業務流程正式區伺服器) 一年軟體升級及更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "96",
+        "項次":  "225",
+        "品項名稱":  "Micro Focus Server Automation Ultimate Edition Version 2 Operating System Instance Sub SW E-LTU(伺服器組態變更與自動化) - 1年訂閱單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "258,746",
+        "廠牌型號":  "Micro Focus Server Automation Ultimate Edition Version 2 Operating System Instance Sub SW E-LTU(伺服器組態變更與自動化) - 1年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "97",
+        "項次":  "226",
+        "品項名稱":  "Micro Focus Server Automation Ultimate Edition version 2 Operating System Instance SW E-LTU(伺服器組態變更與自動化)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "647,017",
+        "廠牌型號":  "Micro Focus Server Automation Ultimate Edition version 2 Operating System Instance SW E-LTU(伺服器組態變更與自動化)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "98",
+        "項次":  "227",
+        "品項名稱":  "Micro Focus Server Automation Ultimate Edition version 2 Operating System Instance SW E-LTU(伺服器組態變更與自動化)一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "194,034",
+        "廠牌型號":  "Micro Focus Server Automation Ultimate Edition version 2 Operating System Instance SW E-LTU(伺服器組態變更與自動化)一年軟體升級及更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "99",
+        "項次":  "228",
+        "品項名稱":  "Micro Focus Service Management Automation Suite Express Edition 5 Concurrent Users Subscription SW E-LTU(資訊服務台與ITIL維運管理) - 1年訂閱單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "582,328",
+        "廠牌型號":  "Micro Focus Service Management Automation Suite Express Edition 5 Concurrent Users Subscription SW E-LTU(資訊服務台與ITIL維運管理) - 1年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "100",
+        "項次":  "229",
+        "品項名稱":  "Micro Focus Service Management Automation Suite Express Edition 5 Concurrent Users SW E-LTU(資訊服務台與ITIL維運管理)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,830,476",
+        "廠牌型號":  "Micro Focus Service Management Automation Suite Express Edition 5 Concurrent Users SW E-LTU(資訊服務台與ITIL維運管理)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "101",
+        "項次":  "230",
+        "品項名稱":  "Micro Focus Service Management Automation Suite Express Edition 5 Concurrent Users SW E-LTU(資訊服務台與ITIL維運管理) 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "411,746",
+        "廠牌型號":  "Micro Focus Service Management Automation Suite Express Edition 5 Concurrent Users SW E-LTU(資訊服務台與ITIL維運管理) 一年軟體升級及更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "102",
+        "項次":  "231",
+        "品項名稱":  "Micro Focus Universal Discovery 1 Unit Version 2 Sub SW E-LTU(CMDB和組態自動化收集) -1年訂閱單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "80,789",
+        "廠牌型號":  "Micro Focus Universal Discovery 1 Unit Version 2 Sub SW E-LTU(CMDB和組態自動化收集) -1年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "103",
+        "項次":  "232",
+        "品項名稱":  "Micro Focus Universal Discovery 1 Unit Version 2 SW E-LTU(CMDB和組態自動化收集)單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "202,123",
+        "廠牌型號":  "Micro Focus Universal Discovery 1 Unit Version 2 SW E-LTU(CMDB和組態自動化收集)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "104",
+        "項次":  "233",
+        "品項名稱":  "Micro Focus Universal Discovery 1 Unit Version 2 SW E-LTU(CMDB和組態自動化收集)一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "60,566",
+        "廠牌型號":  "Micro Focus Universal Discovery 1 Unit Version 2 SW E-LTU(CMDB和組態自動化收集)一年軟體升級及更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "105",
+        "項次":  "239",
+        "品項名稱":  "Palo Alto Networks Cortex Unit42資安服務系統單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "120,829",
+        "廠牌型號":  "Palo Alto Networks Cortex Unit42資安服務系統",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "106",
+        "項次":  "240",
+        "品項名稱":  "Palo Alto Networks Prisma Cloud Enterprise 公有雲可視性/風險偵測 100個運算節點版,一年訂閱單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "1,034,884",
+        "廠牌型號":  "Palo Alto Networks Prisma Cloud Enterprise 公有雲可視性/風險偵測 100個運算節點版,一年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "107",
+        "項次":  "241",
+        "品項名稱":  "Palo Alto Networks Prisma Cloud Enterprise 公有雲可視性/風險偵測 200個運算節點版,一年訂閱單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "2,070,273",
+        "廠牌型號":  "Palo Alto Networks Prisma Cloud Enterprise 公有雲可視性/風險偵測 200個運算節點版,一年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "108",
+        "項次":  "242",
+        "品項名稱":  "Palo Alto Networks Prisma Cloud Enterprise 公有雲可視性/風險偵測 300個運算節點版,一年訂閱單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "3,105,662",
+        "廠牌型號":  "Palo Alto Networks Prisma Cloud Enterprise 公有雲可視性/風險偵測 300個運算節點版,一年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "109",
+        "項次":  "243",
+        "品項名稱":  "Palo Alto Networks Prisma Cloud Enterprise 公有雲端安全軟體發展生命週期解決平台(CNAPP CodeToCloud) SSLDC 25人版(開發人員),一年訂閱單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "1,034,884",
+        "廠牌型號":  "Palo Alto Networks Prisma Cloud Enterprise 公有雲端安全軟體發展生命週期解決平台(CNAPP CodeToCloud) SSLDC 25人版(開發人員),一年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "110",
+        "項次":  "244",
+        "品項名稱":  "Palo Alto Networks Prisma Cloud Enterprise 公有雲端安全軟體發展生命週期解決平台(CNAPP CodeToCloud) SSLDC 50人版(開發人員),一年訂閱單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "2,070,273",
+        "廠牌型號":  "Palo Alto Networks Prisma Cloud Enterprise 公有雲端安全軟體發展生命週期解決平台(CNAPP CodeToCloud) SSLDC 50人版(開發人員),一年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "111",
+        "項次":  "245",
+        "品項名稱":  "Palo Alto Networks Prisma Cloud Enterprise 公有雲端安全軟體發展生命週期解決平台(CNAPP CodeToCloud) SSLDC 75人版(開發人員),一年訂閱單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "3,105,662",
+        "廠牌型號":  "Palo Alto Networks Prisma Cloud Enterprise 公有雲端安全軟體發展生命週期解決平台(CNAPP CodeToCloud) SSLDC 75人版(開發人員),一年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "112",
+        "項次":  "246",
+        "品項名稱":  "Palo Alto Networks Prisma Cloud Enterprise 公有雲自動法規依循檢測(包含業界最佳案例檢測例如:CIS AWS/Azure/GCP)檢測 100個運算節點版,一年訂閱單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "1,034,884",
+        "廠牌型號":  "Palo Alto Networks Prisma Cloud Enterprise 公有雲自動法規依循檢測(包含業界最佳案例檢測例如:CIS AWS/Azure/GCP)檢測 100個運算節點版,一年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "113",
+        "項次":  "247",
+        "品項名稱":  "Palo Alto Networks Prisma Cloud Enterprise 公有雲自動法規依循檢測(包含業界最佳案例檢測例如:CIS AWS/Azure/GCP)檢測 200個運算節點版,一年訂閱單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "2,070,273",
+        "廠牌型號":  "Palo Alto Networks Prisma Cloud Enterprise 公有雲自動法規依循檢測(包含業界最佳案例檢測例如:CIS AWS/Azure/GCP)檢測 200個運算節點版,一年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "114",
+        "項次":  "248",
+        "品項名稱":  "Palo Alto Networks Prisma Cloud Enterprise 公有雲自動法規依循檢測(包含業界最佳案例檢測例如:CIS AWS/Azure/GCP)檢測 300個運算節點版,一年訂閱單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "3,105,662",
+        "廠牌型號":  "Palo Alto Networks Prisma Cloud Enterprise 公有雲自動法規依循檢測(包含業界最佳案例檢測例如:CIS AWS/Azure/GCP)檢測 300個運算節點版,一年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "115",
+        "項次":  "249",
+        "品項名稱":  "Palo Alto Networks Prisma Cloud Enterprise 軟體組成分析與靜態程式碼分析 25人版(開發人員),一年訂閱單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "1,034,884",
+        "廠牌型號":  "Palo Alto Networks Prisma Cloud Enterprise 軟體組成分析與靜態程式碼分析 25人版(開發人員),一年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "116",
+        "項次":  "250",
+        "品項名稱":  "Palo Alto Networks Prisma Cloud Enterprise 軟體組成分析與靜態程式碼分析 50人版(開發人員),一年訂閱單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "2,070,273",
+        "廠牌型號":  "Palo Alto Networks Prisma Cloud Enterprise 軟體組成分析與靜態程式碼分析 50人版(開發人員),一年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "117",
+        "項次":  "251",
+        "品項名稱":  "Palo Alto Networks Prisma Cloud Enterprise 軟體組成分析與靜態程式碼分析 75人版(開發人員),一年訂閱單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "3,105,662",
+        "廠牌型號":  "Palo Alto Networks Prisma Cloud Enterprise 軟體組成分析與靜態程式碼分析 75人版(開發人員),一年訂閱",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "118",
+        "項次":  "252",
+        "品項名稱":  "Palo Alto Networks 零信任規範資安健檢系統單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "489,291",
+        "廠牌型號":  "Palo Alto Networks 零信任規範資安健檢系統",
+        "契約終止日期":  "114/11/06",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "119",
+        "項次":  "253",
+        "品項名稱":  "Pentera Core 自動化紅隊暨資安驗證系統(含500端點)單次最低購買數量：1、單次最高購買數量：6",
+        "單位":  "套",
+        "決標單價":  "6,046,411",
+        "廠牌型號":  "Pentera Core 自動化紅隊暨資安驗證系統(含500端點)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "以色列"
+    },
+    {
+        "編號":  "120",
+        "項次":  "254",
+        "品項名稱":  "Pentera加購模組(1.增購Core 500個端點/2.Surface模組(含一個Domain及150個Subdomain)/3.勒索軟體模擬模組(Ransomware Ready)/4.帳號曝險模組(Credential Exposure) 任選一模組)需搭配Pentera Core系統單次最低購買數量：1、單次最高購買數量：13",
+        "單位":  "套",
+        "決標單價":  "3,033,266",
+        "廠牌型號":  "Pentera加購模組(1.增購Core 500個端點/2.Surface模組(含一個Domain及150個Subdomain)/3.勒索軟體模擬模組(Ransomware Ready)/4.帳號曝險模組(Credential Exposure) 任選一模組)需搭配Pentera Core系統",
+        "契約終止日期":  "114/11/06",
+        "產地":  "以色列"
+    },
+    {
+        "編號":  "121",
+        "項次":  "282",
+        "品項名稱":  "TRAPA Cyber Range 藍隊演練平台 5人授權 APT 28場景單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "733,854",
+        "廠牌型號":  "TRAPA Cyber Range 藍隊演練平台 5人授權 APT 28場景",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "122",
+        "項次":  "283",
+        "品項名稱":  "TRAPA Cyber Range 藍隊演練平台 5人授權 APT 29場景單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "733,854",
+        "廠牌型號":  "TRAPA Cyber Range 藍隊演練平台 5人授權 APT 29場景",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "123",
+        "項次":  "284",
+        "品項名稱":  "TRAPA Cyber Range 藍隊演練平台 5人授權 APT 38場景單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "733,854",
+        "廠牌型號":  "TRAPA Cyber Range 藍隊演練平台 5人授權 APT 38場景",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "124",
+        "項次":  "285",
+        "品項名稱":  "TRAPA Cyber Range 藍隊演練平台 5人授權 FIN 7場景單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "733,854",
+        "廠牌型號":  "TRAPA Cyber Range 藍隊演練平台 5人授權 FIN 7場景",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "125",
+        "項次":  "290",
+        "品項名稱":  "CHTS DDoS攻擊模擬流量測試包-基本版單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "124,508",
+        "廠牌型號":  "CHTS DDoS攻擊模擬流量測試包-基本版",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "126",
+        "項次":  "291",
+        "品項名稱":  "CHTS DDoS攻擊模擬流量測試包-旗艦版單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "399,100",
+        "廠牌型號":  "CHTS DDoS攻擊模擬流量測試包-旗艦版",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "127",
+        "項次":  "292",
+        "品項名稱":  "中華資安弱點掃描追蹤平台_主機弱點掃描系統模組_MA授權單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "99,545",
+        "廠牌型號":  "中華資安弱點掃描追蹤平台_主機弱點掃描系統模組_MA授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "128",
+        "項次":  "293",
+        "品項名稱":  "中華資安弱點掃描追蹤平台_網頁弱點掃描系統模組_MA授權單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "149,470",
+        "廠牌型號":  "中華資安弱點掃描追蹤平台_網頁弱點掃描系統模組_MA授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "129",
+        "項次":  "294",
+        "品項名稱":  "中華資安弱點掃描追蹤管理平台_MA授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "299,249",
+        "廠牌型號":  "中華資安弱點掃描追蹤管理平台_MA授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "130",
+        "項次":  "295",
+        "品項名稱":  "中華資安弱點管理平台PRO 含主機弱掃模組(1,000IP/訂閱制)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "469,573",
+        "廠牌型號":  "中華資安弱點管理平台PRO 含主機弱掃模組(1,000IP/訂閱制)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "131",
+        "項次":  "296",
+        "品項名稱":  "中華資安弱點管理平台PRO 含主機弱掃模組(3,000IP/訂閱制)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "521,376",
+        "廠牌型號":  "中華資安弱點管理平台PRO 含主機弱掃模組(3,000IP/訂閱制)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "132",
+        "項次":  "297",
+        "品項名稱":  "中華資安弱點管理平台PRO 含主機弱掃模組 一年更新授權(1,000IP)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "262,224",
+        "廠牌型號":  "中華資安弱點管理平台PRO 含主機弱掃模組 一年更新授權(1,000IP)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "133",
+        "項次":  "298",
+        "品項名稱":  "中華資安弱點管理平台PRO 含主機弱掃模組 一年更新授權(3,000IP)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "290,597",
+        "廠牌型號":  "中華資安弱點管理平台PRO 含主機弱掃模組 一年更新授權(3,000IP)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "134",
+        "項次":  "299",
+        "品項名稱":  "中華資安弱點管理平台PRO 含主機弱掃模組(1,000IP)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,311,527",
+        "廠牌型號":  "中華資安弱點管理平台PRO 含主機弱掃模組(1,000IP)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "135",
+        "項次":  "300",
+        "品項名稱":  "中華資安弱點管理平台PRO 含主機弱掃模組(3,000IP)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,453,387",
+        "廠牌型號":  "中華資安弱點管理平台PRO 含主機弱掃模組(3,000IP)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "136",
+        "項次":  "301",
+        "品項名稱":  "中華資安弱點管理平台PRO 擴充模組-弱點知識庫單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "349,343",
+        "廠牌型號":  "中華資安弱點管理平台PRO 擴充模組-弱點知識庫",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "137",
+        "項次":  "302",
+        "品項名稱":  "中華資安弱點管理平台PRO 擴充模組-弱點知識庫 一年更新授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "69,788",
+        "廠牌型號":  "中華資安弱點管理平台PRO 擴充模組-弱點知識庫 一年更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "138",
+        "項次":  "303",
+        "品項名稱":  "中華資安弱點管理平台PRO 擴充模組-弱點知識庫(訂閱制)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "126,289",
+        "廠牌型號":  "中華資安弱點管理平台PRO 擴充模組-弱點知識庫(訂閱制)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "139",
+        "項次":  "304",
+        "品項名稱":  "中華資安弱點管理平台PRO 擴充模組-源碼檢測單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "349,343",
+        "廠牌型號":  "中華資安弱點管理平台PRO 擴充模組-源碼檢測",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "140",
+        "項次":  "305",
+        "品項名稱":  "中華資安弱點管理平台PRO 擴充模組-源碼檢測 一年更新授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "69,788",
+        "廠牌型號":  "中華資安弱點管理平台PRO 擴充模組-源碼檢測 一年更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "141",
+        "項次":  "306",
+        "品項名稱":  "中華資安弱點管理平台PRO 擴充模組-源碼檢測(訂閱制)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "126,289",
+        "廠牌型號":  "中華資安弱點管理平台PRO 擴充模組-源碼檢測(訂閱制)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "142",
+        "項次":  "307",
+        "品項名稱":  "中華資安弱點管理平台PRO 擴充模組-網頁弱點掃描單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "299,249",
+        "廠牌型號":  "中華資安弱點管理平台PRO 擴充模組-網頁弱點掃描",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "143",
+        "項次":  "308",
+        "品項名稱":  "中華資安弱點管理平台PRO 擴充模組-網頁弱點掃描 一年更新授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "69,788",
+        "廠牌型號":  "中華資安弱點管理平台PRO 擴充模組-網頁弱點掃描 一年更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "144",
+        "項次":  "309",
+        "品項名稱":  "中華資安弱點管理平台PRO 擴充模組-網頁弱點掃描(訂閱制)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "126,289",
+        "廠牌型號":  "中華資安弱點管理平台PRO 擴充模組-網頁弱點掃描(訂閱制)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "145",
+        "項次":  "310",
+        "品項名稱":  "中華資安弱點管理平台PRO 追蹤流程功能擴充單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "101,011",
+        "廠牌型號":  "中華資安弱點管理平台PRO 追蹤流程功能擴充",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "146",
+        "項次":  "311",
+        "品項名稱":  "中華資安弱點管理平台PRO 追蹤流程功能擴充 一年更新授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "101,011",
+        "廠牌型號":  "中華資安弱點管理平台PRO 追蹤流程功能擴充 一年更新授權",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "147",
+        "項次":  "312",
+        "品項名稱":  "社交工程演練平台_進階版單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,180,004",
+        "廠牌型號":  "社交工程演練平台_進階版",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "148",
+        "項次":  "313",
+        "品項名稱":  "社交工程演練平台_高階版單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,195,113",
+        "廠牌型號":  "社交工程演練平台_高階版",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "149",
+        "項次":  "314",
+        "品項名稱":  "紅藍演練檢測包-模擬內、外部入侵演練平台(含外網曝險評級模組)單次最低購買數量：1、單次最高購買數量：5",
+        "單位":  "套",
+        "決標單價":  "4,246,613",
+        "廠牌型號":  "紅藍演練檢測包-模擬內、外部入侵演練平台(含外網曝險評級模組)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "150",
+        "項次":  "315",
+        "品項名稱":  "紅藍演練檢測包-模擬內部入侵演練平台(含外網曝險評級模組)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "2,612,639",
+        "廠牌型號":  "紅藍演練檢測包-模擬內部入侵演練平台(含外網曝險評級模組)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "151",
+        "項次":  "316",
+        "品項名稱":  "資安眼網域版(3Domain/一年訂閱)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "47,462",
+        "廠牌型號":  "資安眼網域版(3Domain/一年訂閱)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "152",
+        "項次":  "317",
+        "品項名稱":  "電子郵件警覺性測試系統-1000U(雲端版/訂閱制)單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "202,123",
+        "廠牌型號":  "電子郵件警覺性測試系統-1000U(雲端版/訂閱制)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "153",
+        "項次":  "318",
+        "品項名稱":  "電子郵件警覺性測試系統-5000U(雲端版/訂閱制)單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "505,460",
+        "廠牌型號":  "電子郵件警覺性測試系統-5000U(雲端版/訂閱制)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "154",
+        "項次":  "324",
+        "品項名稱":  "卡巴斯基 容器安全標準版- 新購單次最低購買數量：10 、 單次最高購買數量：10,000",
+        "單位":  "套",
+        "決標單價":  "60,613",
+        "廠牌型號":  "卡巴斯基 容器安全標準版- 新購",
+        "契約終止日期":  "114/11/06",
+        "產地":  "俄羅斯"
+    },
+    {
+        "編號":  "155",
+        "項次":  "325",
+        "品項名稱":  "卡巴斯基 容器安全標準版- 續約單次最低購買數量：10 、 單次最高購買數量：10,000",
+        "單位":  "套",
+        "決標單價":  "42,445",
+        "廠牌型號":  "卡巴斯基 容器安全標準版- 續約",
+        "契約終止日期":  "114/11/06",
+        "產地":  "俄羅斯"
+    },
+    {
+        "編號":  "156",
+        "項次":  "326",
+        "品項名稱":  "卡巴斯基 容器安全進階版- 新購單次最低購買數量：10 、 單次最高購買數量：10,000",
+        "單位":  "套",
+        "決標單價":  "101,008",
+        "廠牌型號":  "卡巴斯基 容器安全進階版- 新購",
+        "契約終止日期":  "114/11/06",
+        "產地":  "俄羅斯"
+    },
+    {
+        "編號":  "157",
+        "項次":  "327",
+        "品項名稱":  "卡巴斯基 容器安全進階版- 續約單次最低購買數量：10 、 單次最高購買數量：10,000",
+        "單位":  "套",
+        "決標單價":  "70,720",
+        "廠牌型號":  "卡巴斯基 容器安全進階版- 續約",
+        "契約終止日期":  "114/11/06",
+        "產地":  "俄羅斯"
+    },
+    {
+        "編號":  "158",
+        "項次":  "328",
+        "品項名稱":  "卡巴斯基 新一代安全 - XDR專家版 Kaspersky Next XDR Expert- 新購(授權含端點安全防毒軟體)單次最低購買數量：250 、 單次最高購買數量：10,000",
+        "單位":  "套",
+        "決標單價":  "5,151",
+        "廠牌型號":  "卡巴斯基 新一代安全 - XDR專家版 Kaspersky Next XDR Expert- 新購(授權含端點安全防毒軟體)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "俄羅斯"
+    },
+    {
+        "編號":  "159",
+        "項次":  "329",
+        "品項名稱":  "卡巴斯基 新一代安全 - XDR專家版 Kaspersky Next XDR Expert- 續約(授權含端點安全防毒軟體)單次最低購買數量：250 、 單次最高購買數量：10,000",
+        "單位":  "套",
+        "決標單價":  "4,377",
+        "廠牌型號":  "卡巴斯基 新一代安全 - XDR專家版 Kaspersky Next XDR Expert- 續約(授權含端點安全防毒軟體)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "俄羅斯"
+    },
+    {
+        "編號":  "160",
+        "項次":  "330",
+        "品項名稱":  "卡巴斯基 智能情報服務-全球威脅情報報告單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "5,859,113",
+        "廠牌型號":  "卡巴斯基 智能情報服務-全球威脅情報報告",
+        "契約終止日期":  "114/11/06",
+        "產地":  "俄羅斯"
+    },
+    {
+        "編號":  "161",
+        "項次":  "336",
+        "品項名稱":  "RiskINT 暗網曝險檢測包單次最低購買數量：1、單次最高購買數量：24",
+        "單位":  "套",
+        "決標單價":  "329,767",
+        "廠牌型號":  "RiskINT 暗網曝險檢測包",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "162",
+        "項次":  "337",
+        "品項名稱":  "XCockpit Endpoint 威脅曝險管理平台(端點安全態勢管理) Elite _25 IP單次最低購買數量：1、單次最高購買數量：131",
+        "單位":  "套",
+        "決標單價":  "302,326",
+        "廠牌型號":  "XCockpit Endpoint 威脅曝險管理平台(端點安全態勢管理) Elite _25 IP",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "163",
+        "項次":  "338",
+        "品項名稱":  "XCockpit Endpoint 威脅曝險管理平台(端點安全態勢管理) Plus _25 IP單次最低購買數量：1、單次最高購買數量：175",
+        "單位":  "套",
+        "決標單價":  "226,491",
+        "廠牌型號":  "XCockpit Endpoint 威脅曝險管理平台(端點安全態勢管理) Plus _25 IP",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "164",
+        "項次":  "339",
+        "品項名稱":  "XCockpit Identity 威脅曝險管理平台(帳號安全態勢管理)_100 Accounts單次最低購買數量：1、單次最高購買數量：131",
+        "單位":  "套",
+        "決標單價":  "302,326",
+        "廠牌型號":  "XCockpit Identity 威脅曝險管理平台(帳號安全態勢管理)_100 Accounts",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "165",
+        "項次":  "340",
+        "品項名稱":  "紅藍演練檢測包-模擬內、外部入侵檢視(含AD風險評估模組)單次最低購買數量：1、單次最高購買數量：5",
+        "單位":  "套",
+        "決標單價":  "6,531,921",
+        "廠牌型號":  "紅藍演練檢測包-模擬內、外部入侵檢視(含AD風險評估模組)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "166",
+        "項次":  "341",
+        "品項名稱":  "紅藍演練檢測包-模擬內部入侵檢視(含AD風險評估模組)單次最低購買數量：1、單次最高購買數量：7",
+        "單位":  "套",
+        "決標單價":  "5,306,805",
+        "廠牌型號":  "紅藍演練檢測包-模擬內部入侵檢視(含AD風險評估模組)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "167",
+        "項次":  "342",
+        "品項名稱":  "紅藍演練檢測包-模擬外部入侵檢視(含AD風險評估模組)單次最低購買數量：1、單次最高購買數量：18",
+        "單位":  "套",
+        "決標單價":  "2,039,828",
+        "廠牌型號":  "紅藍演練檢測包-模擬外部入侵檢視(含AD風險評估模組)",
+        "契約終止日期":  "114/11/06",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "168",
+        "項次":  "59",
+        "品項名稱":  "Check Point-Cyberint 多元智能資安鑑識調查系統(年度保固及訂閱服務)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "2,123,347",
+        "廠牌型號":  "Check Point-Cyberint 多元智能資安鑑識調查系統(年度保固及訂閱服務)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "以色列"
+    },
+    {
+        "編號":  "169",
+        "項次":  "60",
+        "品項名稱":  "Check Point-Cyberint 攻擊面偵測管理套件(年度保固及訂閱服務)單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "1,941,345",
+        "廠牌型號":  "Check Point-Cyberint 攻擊面偵測管理套件(年度保固及訂閱服務)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "以色列"
+    },
+    {
+        "編號":  "170",
+        "項次":  "61",
+        "品項名稱":  "Check Point-Cyberint 攻擊面偵測管理套件+深暗網威脅情資軟體套件(年度保固及訂閱服務)單次最低購買數量：1、單次最高購買數量：5",
+        "單位":  "套",
+        "決標單價":  "3,538,918",
+        "廠牌型號":  "Check Point-Cyberint 攻擊面偵測管理套件+深暗網威脅情資軟體套件(年度保固及訂閱服務)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "以色列"
+    },
+    {
+        "編號":  "171",
+        "項次":  "62",
+        "品項名稱":  "Check Point-Cyberint 數位資產管理套件(單次授權及報告)單次最低購買數量：1、單次最高購買數量：500",
+        "單位":  "套",
+        "決標單價":  "52,568",
+        "廠牌型號":  "Check Point-Cyberint 數位資產管理套件(單次授權及報告)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "以色列"
+    },
+    {
+        "編號":  "172",
+        "項次":  "63",
+        "品項名稱":  "Check Point-Cyberint 深暗網威脅情資軟體套件(年度保固及訂閱服務)單次最低購買數量：1、單次最高購買數量：14",
+        "單位":  "套",
+        "決標單價":  "2,654,196",
+        "廠牌型號":  "Check Point-Cyberint 深暗網威脅情資軟體套件(年度保固及訂閱服務)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "以色列"
+    },
+    {
+        "編號":  "173",
+        "項次":  "111",
+        "品項名稱":  "GCB/FCB跨平台組態基準稽核管理系統---1U軟體一年升級授權單次最低購買數量：1、單次最高購買數量：54,000",
+        "單位":  "套",
+        "決標單價":  "868",
+        "廠牌型號":  "GCB/FCB跨平台組態基準稽核管理系統---1U軟體一年升級授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "174",
+        "項次":  "112",
+        "品項名稱":  "GCB/FCB跨平台組態基準稽核管理系統-1U軟體授權最新版單次最低購買數量：1、單次最高購買數量：1,900",
+        "單位":  "套",
+        "決標單價":  "2,508",
+        "廠牌型號":  "GCB/FCB跨平台組態基準稽核管理系統-1U軟體授權最新版",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "175",
+        "項次":  "113",
+        "品項名稱":  "Security Intelligence Portal(SIP)- SmartAD 網域-適用100U軟體授權最新版單次最低購買數量：1、單次最高購買數量：600",
+        "單位":  "套",
+        "決標單價":  "74,999",
+        "廠牌型號":  "Security Intelligence Portal(SIP)- SmartAD 網域-適用100U軟體授權最新版",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "176",
+        "項次":  "114",
+        "品項名稱":  "Security Intelligence Portal(SIP)- SmartAD網域-適用 100U軟體一年升級授權單次最低購買數量：1、單次最高購買數量：1,200",
+        "單位":  "套",
+        "決標單價":  "27,901",
+        "廠牌型號":  "Security Intelligence Portal(SIP)- SmartAD網域-適用 100U軟體一年升級授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "177",
+        "項次":  "115",
+        "品項名稱":  "SIP-Clientless NAC++ Advance資安合規自動矯正系統--適用50U軟體一年版本升級授權單次最低購買數量：1、單次最高購買數量：850",
+        "單位":  "套",
+        "決標單價":  "53,799",
+        "廠牌型號":  "SIP-Clientless NAC++ Advance資安合規自動矯正系統--適用50U軟體一年版本升級授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "178",
+        "項次":  "116",
+        "品項名稱":  "SIP-Clientless NAC++ Advance資安合規自動矯正系統--適用50U軟體授權單次最低購買數量：1、單次最高購買數量：300",
+        "單位":  "套",
+        "決標單價":  "153,740",
+        "廠牌型號":  "SIP-Clientless NAC++ Advance資安合規自動矯正系統--適用50U軟體授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "179",
+        "項次":  "117",
+        "品項名稱":  "軟體風險評鑑(支援VANS、NIST、CISA)管理系統(支援CPE格式自動、手動上傳) Linux版-適用50人軟體授權單次最低購買數量：1、單次最高購買數量：300",
+        "單位":  "套",
+        "決標單價":  "153,740",
+        "廠牌型號":  "軟體風險評鑑(支援VANS、NIST、CISA)管理系統(支援CPE格式自動、手動上傳) Linux版-適用50人軟體授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "180",
+        "項次":  "118",
+        "品項名稱":  "軟體風險評鑑(支援VANS、NIST、CISA)管理系統(支援CPE格式自動、手動上傳) Linux版-適用50人軟體授權一年升級授權單次最低購買數量：1、單次最高購買數量：850",
+        "單位":  "套",
+        "決標單價":  "53,799",
+        "廠牌型號":  "軟體風險評鑑(支援VANS、NIST、CISA)管理系統(支援CPE格式自動、手動上傳) Linux版-適用50人軟體授權一年升級授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "181",
+        "項次":  "119",
+        "品項名稱":  "軟體風險評鑑(支援VANS、NIST、CISA)管理系統(支援CPE格式自動、手動上傳) Windows版-適用50人軟體授權單次最低購買數量：1、單次最高購買數量：400",
+        "單位":  "套",
+        "決標單價":  "120,106",
+        "廠牌型號":  "軟體風險評鑑(支援VANS、NIST、CISA)管理系統(支援CPE格式自動、手動上傳) Windows版-適用50人軟體授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "182",
+        "項次":  "120",
+        "品項名稱":  "軟體風險評鑑(支援VANS、NIST、CISA)管理系統(支援CPE格式自動、手動上傳) Windows版-適用50人軟體授權一年升級授權單次最低購買數量：1、單次最高購買數量：1,100",
+        "單位":  "套",
+        "決標單價":  "42,027",
+        "廠牌型號":  "軟體風險評鑑(支援VANS、NIST、CISA)管理系統(支援CPE格式自動、手動上傳) Windows版-適用50人軟體授權一年升級授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "183",
+        "項次":  "128",
+        "品項名稱":  "Forescout XDR威脅偵測自動防護平台-自動化響應+ 24/7 MDR-100U使用權-(年度保固及軟體訂閱服務)單次最低購買數量：1、單次最高購買數量：22",
+        "單位":  "套",
+        "決標單價":  "1,764,015",
+        "廠牌型號":  "Forescout XDR威脅偵測自動防護平台-自動化響應+ 24/7 MDR-100U使用權-(年度保固及軟體訂閱服務)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "184",
+        "項次":  "129",
+        "品項名稱":  "Forescout XDR威脅偵測自動防護平台-自動化響應+ 24/7 MDR-10U使用權-(年度保固及軟體訂閱服務)單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "367,382",
+        "廠牌型號":  "Forescout XDR威脅偵測自動防護平台-自動化響應+ 24/7 MDR-10U使用權-(年度保固及軟體訂閱服務)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "185",
+        "項次":  "130",
+        "品項名稱":  "Forescout XDR威脅偵測自動防護平台-自動化響應+ 24/7 MDR-200U使用權-(年度保固及軟體訂閱服務)單次最低購買數量：1、單次最高購買數量：14",
+        "單位":  "套",
+        "決標單價":  "2,822,516",
+        "廠牌型號":  "Forescout XDR威脅偵測自動防護平台-自動化響應+ 24/7 MDR-200U使用權-(年度保固及軟體訂閱服務)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "186",
+        "項次":  "131",
+        "品項名稱":  "Forescout XDR威脅偵測自動防護平台-自動化響應+ 24/7 MDR-50U使用權-(年度保固及軟體訂閱服務)單次最低購買數量：1、單次最高購買數量：36",
+        "單位":  "套",
+        "決標單價":  "1,102,452",
+        "廠牌型號":  "Forescout XDR威脅偵測自動防護平台-自動化響應+ 24/7 MDR-50U使用權-(年度保固及軟體訂閱服務)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "187",
+        "項次":  "132",
+        "品項名稱":  "Fortinet 稽核管理系統50台設備一年授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "2,775,118",
+        "廠牌型號":  "Fortinet 稽核管理系統50台設備一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "188",
+        "項次":  "133",
+        "品項名稱":  "Fortinet 稽核管理系統Windows Agent 50台設備一年授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "519,559",
+        "廠牌型號":  "Fortinet 稽核管理系統Windows Agent 50台設備一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "189",
+        "項次":  "134",
+        "品項名稱":  "Fortinet 稽核管理系統升級100 EPS 一年授權單次最低購買數量：1、單次最高購買數量：900",
+        "單位":  "套",
+        "決標單價":  "75,884",
+        "廠牌型號":  "Fortinet 稽核管理系統升級100 EPS 一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "190",
+        "項次":  "135",
+        "品項名稱":  "Fortinet 稽核管理系統升級100台設備一年授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "3,267,014",
+        "廠牌型號":  "Fortinet 稽核管理系統升級100台設備一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "191",
+        "項次":  "136",
+        "品項名稱":  "Fortinet 集中管理系統(10台設備)單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "213,620",
+        "廠牌型號":  "Fortinet 集中管理系統(10台設備)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "192",
+        "項次":  "137",
+        "品項名稱":  "Fortinet 集中管理系統 一年續約授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "42,530",
+        "廠牌型號":  "Fortinet 集中管理系統 一年續約授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "193",
+        "項次":  "138",
+        "品項名稱":  "Fortinet 集中管理系統 數量升級 - 10台設備單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "127,965",
+        "廠牌型號":  "Fortinet 集中管理系統 數量升級 - 10台設備",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "194",
+        "項次":  "140",
+        "品項名稱":  "HCL AppScan 360 全方位檢測平台 一年授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "User",
+        "決標單價":  "3,109,507",
+        "廠牌型號":  "HCL AppScan 360 全方位檢測平台 一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "195",
+        "項次":  "141",
+        "品項名稱":  "HCL AppScan 360 全方位檢測平台 三年授權單次最低購買數量：1、單次最高購買數量：5",
+        "單位":  "User",
+        "決標單價":  "7,206,269",
+        "廠牌型號":  "HCL AppScan 360 全方位檢測平台 三年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "196",
+        "項次":  "142",
+        "品項名稱":  "HCL AppScan Enterprise 企業版整合式一年授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "Floating U",
+        "決標單價":  "3,852,119",
+        "廠牌型號":  "HCL AppScan Enterprise 企業版整合式一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "197",
+        "項次":  "143",
+        "品項名稱":  "HCL AppScan Enterprise 企業版整合式一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "User",
+        "決標單價":  "1,901,311",
+        "廠牌型號":  "HCL AppScan Enterprise 企業版整合式一年軟體升級及更新授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "198",
+        "項次":  "144",
+        "品項名稱":  "HCL AppScan Enterprise 企業版整合式三年授權單次最低購買數量：1、單次最高購買數量：3",
+        "單位":  "User",
+        "決標單價":  "8,090,563",
+        "廠牌型號":  "HCL AppScan Enterprise 企業版整合式三年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "199",
+        "項次":  "145",
+        "品項名稱":  "HCL AppScan Enterprise 企業版整合式永久授權版單次最低購買數量：1、單次最高購買數量：3",
+        "單位":  "Floating U",
+        "決標單價":  "8,269,957",
+        "廠牌型號":  "HCL AppScan Enterprise 企業版整合式永久授權版",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "200",
+        "項次":  "146",
+        "品項名稱":  "HCL AppScan Source For Analysis 應用安全靜態檢測平台(單一使用者授權) 一年授權單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "USER",
+        "決標單價":  "804,374",
+        "廠牌型號":  "HCL AppScan Source For Analysis 應用安全靜態檢測平台(單一使用者授權) 一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "201",
+        "項次":  "147",
+        "品項名稱":  "HCL AppScan Source For Analysis 應用安全靜態檢測平台(單一使用者授權) 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "USER",
+        "決標單價":  "395,168",
+        "廠牌型號":  "HCL AppScan Source For Analysis 應用安全靜態檢測平台(單一使用者授權) 一年軟體升級及更新授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "202",
+        "項次":  "148",
+        "品項名稱":  "HCL AppScan Source For Analysis 應用安全靜態檢測平台(單一使用者授權) 三年授權單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "USER",
+        "決標單價":  "1,690,297",
+        "廠牌型號":  "HCL AppScan Source For Analysis 應用安全靜態檢測平台(單一使用者授權) 三年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "203",
+        "項次":  "149",
+        "品項名稱":  "HCL AppScan Source For Analysis 應用安全靜態檢測平台(單一使用者授權) 永久授權版單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "USER",
+        "決標單價":  "1,721,507",
+        "廠牌型號":  "HCL AppScan Source For Analysis 應用安全靜態檢測平台(單一使用者授權) 永久授權版",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "204",
+        "項次":  "150",
+        "品項名稱":  "HCL AppScan Source For Analysis 應用安全靜態檢測平台(浮動使用者授權) 一年授權單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "Floating U",
+        "決標單價":  "1,458,158",
+        "廠牌型號":  "HCL AppScan Source For Analysis 應用安全靜態檢測平台(浮動使用者授權) 一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "205",
+        "項次":  "151",
+        "品項名稱":  "HCL AppScan Source For Analysis 應用安全靜態檢測平台(浮動使用者授權) 三年授權單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "USER",
+        "決標單價":  "3,063,245",
+        "廠牌型號":  "HCL AppScan Source For Analysis 應用安全靜態檢測平台(浮動使用者授權) 三年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "206",
+        "項次":  "152",
+        "品項名稱":  "HCL AppScan Source For Analysis 應用安全靜態檢測平台(浮動使用者授權)) 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "User",
+        "決標單價":  "714,408",
+        "廠牌型號":  "HCL AppScan Source For Analysis 應用安全靜態檢測平台(浮動使用者授權)) 一年軟體升級及更新授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "207",
+        "項次":  "153",
+        "品項名稱":  "HCL AppScan Source 自動化整合模組一年授權單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "User",
+        "決標單價":  "1,433,953",
+        "廠牌型號":  "HCL AppScan Source 自動化整合模組一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "208",
+        "項次":  "154",
+        "品項名稱":  "HCL AppScan Source 自動化整合模組一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "User",
+        "決標單價":  "703,589",
+        "廠牌型號":  "HCL AppScan Source 自動化整合模組一年軟體升級及更新授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "209",
+        "項次":  "155",
+        "品項名稱":  "HCL AppScan Source 自動化整合模組三年授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "User",
+        "決標單價":  "3,012,415",
+        "廠牌型號":  "HCL AppScan Source 自動化整合模組三年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "210",
+        "項次":  "156",
+        "品項名稱":  "HCL AppScan Source 自動化整合模組永久授權版單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "User",
+        "決標單價":  "3,062,472",
+        "廠牌型號":  "HCL AppScan Source 自動化整合模組永久授權版",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "211",
+        "項次":  "157",
+        "品項名稱":  "HCL Appscan Standard 應用安全動態檢測工具(單一使用者授權) 一年授權單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "USER",
+        "決標單價":  "824,660",
+        "廠牌型號":  "HCL Appscan Standard 應用安全動態檢測工具(單一使用者授權) 一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "212",
+        "項次":  "158",
+        "品項名稱":  "HCL Appscan Standard 應用安全動態檢測工具(單一使用者授權) 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "Floating U",
+        "決標單價":  "406,630",
+        "廠牌型號":  "HCL Appscan Standard 應用安全動態檢測工具(單一使用者授權) 一年軟體升級及更新授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "213",
+        "項次":  "159",
+        "品項名稱":  "HCL Appscan Standard 應用安全動態檢測工具(單一使用者授權) 三年授權單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "USER",
+        "決標單價":  "1,732,898",
+        "廠牌型號":  "HCL Appscan Standard 應用安全動態檢測工具(單一使用者授權) 三年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "214",
+        "項次":  "160",
+        "品項名稱":  "HCL Appscan Standard 應用安全動態檢測工具(單一使用者授權) 永久授權版單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "USER",
+        "決標單價":  "1,771,339",
+        "廠牌型號":  "HCL Appscan Standard 應用安全動態檢測工具(單一使用者授權) 永久授權版",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "215",
+        "項次":  "161",
+        "品項名稱":  "HCL Appscan Standard 應用安全動態檢測工具(浮動使用者授權) 一年授權單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "USER",
+        "決標單價":  "1,500,863",
+        "廠牌型號":  "HCL Appscan Standard 應用安全動態檢測工具(浮動使用者授權) 一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "216",
+        "項次":  "162",
+        "品項名稱":  "HCL Appscan Standard 應用安全動態檢測工具(浮動使用者授權) 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "Floating U",
+        "決標單價":  "735,689",
+        "廠牌型號":  "HCL Appscan Standard 應用安全動態檢測工具(浮動使用者授權) 一年軟體升級及更新授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "217",
+        "項次":  "163",
+        "品項名稱":  "HCL Appscan Standard 應用安全動態檢測工具(浮動使用者授權) 三年授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "Floating U",
+        "決標單價":  "3,152,924",
+        "廠牌型號":  "HCL Appscan Standard 應用安全動態檢測工具(浮動使用者授權) 三年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "218",
+        "項次":  "164",
+        "品項名稱":  "HCL Appscan Standard 應用安全動態檢測工具(浮動使用者授權) 永久授權版單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "Floating U",
+        "決標單價":  "3,153,935",
+        "廠牌型號":  "HCL Appscan Standard 應用安全動態檢測工具(浮動使用者授權) 永久授權版",
+        "契約終止日期":  "115/05/07",
+        "產地":  "印度"
+    },
+    {
+        "編號":  "219",
+        "項次":  "171",
+        "品項名稱":  "Illumio零信任網路解決方案一年授權單次最低購買數量：1、單次最高購買數量：34",
+        "單位":  "套",
+        "決標單價":  "1,139,213",
+        "廠牌型號":  "Illumio零信任網路解決方案一年授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "220",
+        "項次":  "175",
+        "品項名稱":  "ArgusHack BAS 3.0 模擬演練報告進階模組,一年訂閱授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "161,678",
+        "廠牌型號":  "ArgusHack BAS 3.0 模擬演練報告進階模組,一年訂閱授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "221",
+        "項次":  "176",
+        "品項名稱":  "ArgusHack BAS 3.0 模擬演練報告進階模組,單季訂閱授權單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "48,433",
+        "廠牌型號":  "ArgusHack BAS 3.0 模擬演練報告進階模組,單季訂閱授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "222",
+        "項次":  "177",
+        "品項名稱":  "ArgusHack BAS 3.0 模擬演練平台基礎版,一年訂閱授權(Unlimited Agent / Offline Mode)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "283,013",
+        "廠牌型號":  "ArgusHack BAS 3.0 模擬演練平台基礎版,一年訂閱授權(Unlimited Agent / Offline Mode)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "223",
+        "項次":  "178",
+        "品項名稱":  "ArgusHack BAS 3.0 模擬演練平台基礎版,單季訂閱授權(Unlimited Agent / Offline Mode)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "96,967",
+        "廠牌型號":  "ArgusHack BAS 3.0 模擬演練平台基礎版,單季訂閱授權(Unlimited Agent / Offline Mode)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "224",
+        "項次":  "179",
+        "品項名稱":  "ArgusHack BAS 3.0 模擬演練平台進階模組,一年訂閱授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "970,576",
+        "廠牌型號":  "ArgusHack BAS 3.0 模擬演練平台進階模組,一年訂閱授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "225",
+        "項次":  "180",
+        "品項名稱":  "ArgusHack BAS 3.0 模擬演練攻擊全情境單一劇本包,一年訂閱授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "485,238",
+        "廠牌型號":  "ArgusHack BAS 3.0 模擬演練攻擊全情境單一劇本包,一年訂閱授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "226",
+        "項次":  "181",
+        "品項名稱":  "ArgusHack BAS 3.0 模擬演練攻擊全情境單一劇本包,單月訂閱授權單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "48,433",
+        "廠牌型號":  "ArgusHack BAS 3.0 模擬演練攻擊全情境單一劇本包,單月訂閱授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "227",
+        "項次":  "186",
+        "品項名稱":  "Mandiant IRR 基礎版授權一年單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "4,149,613",
+        "廠牌型號":  "Mandiant IRR 基礎版授權一年",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "228",
+        "項次":  "187",
+        "品項名稱":  "Mandiant Managed Defense- 防禦管理監控平台軟體訂閱授權一年單次最低購買數量：1、單次最高購買數量：9",
+        "單位":  "套",
+        "決標單價":  "4,274,317",
+        "廠牌型號":  "Mandiant Managed Defense- 防禦管理監控平台軟體訂閱授權一年",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "229",
+        "項次":  "188",
+        "品項名稱":  "Mandiant Managed Defense- 防禦管理監控軟體 擴充500U 訂閱授權一年單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "1,038,083",
+        "廠牌型號":  "Mandiant Managed Defense- 防禦管理監控軟體 擴充500U 訂閱授權一年",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "230",
+        "項次":  "189",
+        "品項名稱":  "Mandiant Security Validation 資安驗證平台-5 agent擴充訂閱授權一年單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "1,713,641",
+        "廠牌型號":  "Mandiant Security Validation 資安驗證平台-5 agent擴充訂閱授權一年",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "231",
+        "項次":  "190",
+        "品項名稱":  "Mandiant Security Validation 資安驗證平台-基礎版軟體訂閱授權一年單次最低購買數量：1、單次最高購買數量：5",
+        "單位":  "套",
+        "決標單價":  "5,506,453",
+        "廠牌型號":  "Mandiant Security Validation 資安驗證平台-基礎版軟體訂閱授權一年",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "232",
+        "項次":  "191",
+        "品項名稱":  "Mandiant 基礎版 一年續約授權單次最低購買數量：1、單次最高購買數量：12",
+        "單位":  "式",
+        "決標單價":  "3,217,661",
+        "廠牌型號":  "Mandiant 基礎版 一年續約授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "233",
+        "項次":  "192",
+        "品項名稱":  "Mandiant 標準版 一年續約授權單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "式",
+        "決標單價":  "3,810,532",
+        "廠牌型號":  "Mandiant 標準版 一年續約授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "234",
+        "項次":  "193",
+        "品項名稱":  "Mandiant 資安服務顧問授權單次最低購買數量：1、單次最高購買數量：8",
+        "單位":  "套",
+        "決標單價":  "5,082,603",
+        "廠牌型號":  "Mandiant 資安服務顧問授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "235",
+        "項次":  "194",
+        "品項名稱":  "Mandiant 進階版 一年續約授權單次最低購買數量：1、單次最高購買數量：8",
+        "單位":  "式",
+        "決標單價":  "4,827,772",
+        "廠牌型號":  "Mandiant 進階版 一年續約授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "236",
+        "項次":  "203",
+        "品項名稱":  "Micro Focus ArcSight ESM Standard Edition 100 EPS 事件關聯紀錄管理套件組單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "2,075,932",
+        "廠牌型號":  "Micro Focus ArcSight ESM Standard Edition 100 EPS 事件關聯紀錄管理套件組",
+        "契約終止日期":  "115/05/07",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "237",
+        "項次":  "204",
+        "品項名稱":  "Micro Focus ArcSight ESM Standard Edition 100 EPS 事件關聯紀錄管理套件組 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：49",
+        "單位":  "套",
+        "決標單價":  "560,303",
+        "廠牌型號":  "Micro Focus ArcSight ESM Standard Edition 100 EPS 事件關聯紀錄管理套件組 一年軟體升級及更新授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "238",
+        "項次":  "205",
+        "品項名稱":  "Micro Focus ArcSight Logger Standard Edition 100 EPS 通用日誌管理系統單次最低購買數量：1、單次最高購買數量：49",
+        "單位":  "套",
+        "決標單價":  "477,657",
+        "廠牌型號":  "Micro Focus ArcSight Logger Standard Edition 100 EPS 通用日誌管理系統",
+        "契約終止日期":  "115/05/07",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "239",
+        "項次":  "206",
+        "品項名稱":  "Micro Focus ArcSight Logger Standard Edition 100 EPS 通用日誌管理系統 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：99",
+        "單位":  "套",
+        "決標單價":  "128,689",
+        "廠牌型號":  "Micro Focus ArcSight Logger Standard Edition 100 EPS 通用日誌管理系統 一年軟體升級及更新授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "240",
+        "項次":  "207",
+        "品項名稱":  "Micro Focus ArcSight Recon Standard Edition 100 EPS大數據資安威脅獵捕系統單次最低購買數量：1、單次最高購買數量：49",
+        "單位":  "套",
+        "決標單價":  "756,356",
+        "廠牌型號":  "Micro Focus ArcSight Recon Standard Edition 100 EPS大數據資安威脅獵捕系統",
+        "契約終止日期":  "115/05/07",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "241",
+        "項次":  "208",
+        "品項名稱":  "Micro Focus Fortify ScanCentral SAST自動化架構靜態程式碼分析工具(含兩個同時掃描及一個掃描使用者授權)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "3,625,350",
+        "廠牌型號":  "Micro Focus Fortify ScanCentral SAST自動化架構靜態程式碼分析工具(含兩個同時掃描及一個掃描使用者授權)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "242",
+        "項次":  "209",
+        "品項名稱":  "Micro Focus Fortify Sonatype Lifecycle Per User開放原始碼掃描擴充模組單次最低購買數量：1、單次最高購買數量：19",
+        "單位":  "套",
+        "決標單價":  "908,356",
+        "廠牌型號":  "Micro Focus Fortify Sonatype Lifecycle Per User開放原始碼掃描擴充模組",
+        "契約終止日期":  "115/05/07",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "243",
+        "項次":  "210",
+        "品項名稱":  "Micro Focus Fortify Static Code Analyzer(SCA) 靜態程式碼分析工具 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：49",
+        "單位":  "套",
+        "決標單價":  "469,424",
+        "廠牌型號":  "Micro Focus Fortify Static Code Analyzer(SCA) 靜態程式碼分析工具 一年軟體升級及更新授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "244",
+        "項次":  "211",
+        "品項名稱":  "Micro Focus Fortify Static Code Analyzer(SCA) 靜態程式碼分析工具(含軟體安全管理中心以及行動裝置源碼檢測)單次最低購買數量：1、單次最高購買數量：19",
+        "單位":  "套",
+        "決標單價":  "1,935,099",
+        "廠牌型號":  "Micro Focus Fortify Static Code Analyzer(SCA) 靜態程式碼分析工具(含軟體安全管理中心以及行動裝置源碼檢測)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "245",
+        "項次":  "212",
+        "品項名稱":  "Micro Focus Fortify WebInspect 動態網頁安全檢測工具(含網站即時檢測模組)單次最低購買數量：1、單次最高購買數量：19",
+        "單位":  "套",
+        "決標單價":  "1,430,102",
+        "廠牌型號":  "Micro Focus Fortify WebInspect 動態網頁安全檢測工具(含網站即時檢測模組)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "246",
+        "項次":  "213",
+        "品項名稱":  "Micro Focus Fortify WebInspect 動態網頁安全檢測工具 一年軟體升級及更新授權單次最低購買數量：1、單次最高購買數量：49",
+        "單位":  "套",
+        "決標單價":  "346,836",
+        "廠牌型號":  "Micro Focus Fortify WebInspect 動態網頁安全檢測工具 一年軟體升級及更新授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "加拿大"
+    },
+    {
+        "編號":  "247",
+        "項次":  "258",
+        "品項名稱":  "Attack Surface Intelligence 攻擊面情資模組( 1 user) 一年期訂閱制單次最低購買數量：4 、 單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "1,014,502",
+        "廠牌型號":  "Attack Surface Intelligence 攻擊面情資模組( 1 user) 一年期訂閱制",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "248",
+        "項次":  "259",
+        "品項名稱":  "Brand Intelligence 企業品牌情資模組(1 user) 一年期訂閱制單次最低購買數量：2 、 單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "1,750,593",
+        "廠牌型號":  "Brand Intelligence 企業品牌情資模組(1 user) 一年期訂閱制",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "249",
+        "項次":  "260",
+        "品項名稱":  "Geopolitical Intelligence 地緣政治情資模組( 1 user) 一年期訂閱制單次最低購買數量：2 、 單次最高購買數量：15",
+        "單位":  "套",
+        "決標單價":  "2,020,117",
+        "廠牌型號":  "Geopolitical Intelligence 地緣政治情資模組( 1 user) 一年期訂閱制",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "250",
+        "項次":  "261",
+        "品項名稱":  "Identity Intelligence 認證身分情資模組(Up to 1000 identities) 一年期訂閱制單次最低購買數量：5 、 單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "700,157",
+        "廠牌型號":  "Identity Intelligence 認證身分情資模組(Up to 1000 identities) 一年期訂閱制",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "251",
+        "項次":  "262",
+        "品項名稱":  "Premium Success module 進階輔助套件(每套模組最低數量)單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "497,169",
+        "廠牌型號":  "Premium Success module 進階輔助套件(每套模組最低數量)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "252",
+        "項次":  "263",
+        "品項名稱":  "Secops Intelligence安全維運情資模組(1 user) 一年期訂閱制單次最低購買數量：5 、 單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "700,157",
+        "廠牌型號":  "Secops Intelligence安全維運情資模組(1 user) 一年期訂閱制",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "253",
+        "項次":  "264",
+        "品項名稱":  "Third-Party Intelligence 第三方/供應商情資模組(up to 5 organizations) 一年期訂閱制單次最低購買數量：5 、 單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "700,157",
+        "廠牌型號":  "Third-Party Intelligence 第三方/供應商情資模組(up to 5 organizations) 一年期訂閱制",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "254",
+        "項次":  "265",
+        "品項名稱":  "Threat Intelligence 威脅情資模組(1 user) 一年期訂閱制單次最低購買數量：2 、 單次最高購買數量：15",
+        "單位":  "套",
+        "決標單價":  "2,020,117",
+        "廠牌型號":  "Threat Intelligence 威脅情資模組(1 user) 一年期訂閱制",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "255",
+        "項次":  "266",
+        "品項名稱":  "Vulnerability Intelligence 漏洞情資模組(up to 1 user) 一年期訂閱制單次最低購買數量：2 、 單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "1,212,154",
+        "廠牌型號":  "Vulnerability Intelligence 漏洞情資模組(up to 1 user) 一年期訂閱制",
+        "契約終止日期":  "115/05/07",
+        "產地":  "美國"
+    },
+    {
+        "編號":  "256",
+        "項次":  "267",
+        "品項名稱":  "RiskView 智能數位資產風險防護套件(企業版)單次最低購買數量：1、單次最高購買數量：380",
+        "單位":  "套",
+        "決標單價":  "105,845",
+        "廠牌型號":  "RiskView 智能數位資產風險防護套件(企業版)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "257",
+        "項次":  "268",
+        "品項名稱":  "RiskView 智能數位資產風險防護套件(進階版)單次最低購買數量：1、單次最高購買數量：120",
+        "單位":  "套",
+        "決標單價":  "317,781",
+        "廠牌型號":  "RiskView 智能數位資產風險防護套件(進階版)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "258",
+        "項次":  "303",
+        "品項名稱":  "ThreatVision威脅情資週報2025版(1個帳號授權/1年授權)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "2,588,372",
+        "廠牌型號":  "ThreatVision威脅情資週報2025版(1個帳號授權/1年授權)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "259",
+        "項次":  "304",
+        "品項名稱":  "ThreatVision漏洞修補管理週報2025版(1個帳號授權/1年授權)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "647,017",
+        "廠牌型號":  "ThreatVision漏洞修補管理週報2025版(1個帳號授權/1年授權)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "260",
+        "項次":  "322",
+        "品項名稱":  "TRAPA Cyber Range 藍隊演練平台 5人授權 APT 41場景單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "733,854",
+        "廠牌型號":  "TRAPA Cyber Range 藍隊演練平台 5人授權 APT 41場景",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "261",
+        "項次":  "323",
+        "品項名稱":  "TRAPA ZONE-資安技能訓練模組-1人授權單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "284,645",
+        "廠牌型號":  "TRAPA ZONE-資安技能訓練模組-1人授權",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "262",
+        "項次":  "333",
+        "品項名稱":  "BAS 入侵演練驗證單一模組(機關規模\u0026lt;100人)單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "505,460",
+        "廠牌型號":  "BAS 入侵演練驗證單一模組(機關規模\u0026lt;100人)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "263",
+        "項次":  "334",
+        "品項名稱":  "BAS 入侵演練驗證單一模組(機關規模100~500人)單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "808,797",
+        "廠牌型號":  "BAS 入侵演練驗證單一模組(機關規模100~500人)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "264",
+        "項次":  "335",
+        "品項名稱":  "VANS資通安全弱點通報平台(支援CPE轉換、VANS系統上傳)_100U單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "169,147",
+        "廠牌型號":  "VANS資通安全弱點通報平台(支援CPE轉換、VANS系統上傳)_100U",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "265",
+        "項次":  "336",
+        "品項名稱":  "VANS資通安全弱點通報平台(支援CPE轉換、VANS系統上傳)_60U單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "110,084",
+        "廠牌型號":  "VANS資通安全弱點通報平台(支援CPE轉換、VANS系統上傳)_60U",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "266",
+        "項次":  "337",
+        "品項名稱":  "中華資安事件管理及戰情牆系統(100U)單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "3,698,949",
+        "廠牌型號":  "中華資安事件管理及戰情牆系統(100U)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "267",
+        "項次":  "338",
+        "品項名稱":  "中華資安事件管理及戰情牆系統(100U) MA單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "738,681",
+        "廠牌型號":  "中華資安事件管理及戰情牆系統(100U) MA",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "268",
+        "項次":  "339",
+        "品項名稱":  "中華資安事件管理及戰情牆系統(每增購100U)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "718,123",
+        "廠牌型號":  "中華資安事件管理及戰情牆系統(每增購100U)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "269",
+        "項次":  "340",
+        "品項名稱":  "中華資安通用日誌管理系統100EPS(增購)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "120,941",
+        "廠牌型號":  "中華資安通用日誌管理系統100EPS(增購)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "270",
+        "項次":  "341",
+        "品項名稱":  "中華資安通用日誌管理系統100EPS(訂閱制)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "343,968",
+        "廠牌型號":  "中華資安通用日誌管理系統100EPS(訂閱制)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "271",
+        "項次":  "342",
+        "品項名稱":  "中華資安通用日誌管理系統5GB/day(增購)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "120,941",
+        "廠牌型號":  "中華資安通用日誌管理系統5GB/day(增購)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "272",
+        "項次":  "343",
+        "品項名稱":  "中華資安通用日誌管理系統5GB/day(訂閱制)單次最低購買數量：1、單次最高購買數量：50",
+        "單位":  "套",
+        "決標單價":  "343,968",
+        "廠牌型號":  "中華資安通用日誌管理系統5GB/day(訂閱制)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "273",
+        "項次":  "344",
+        "品項名稱":  "日誌蒐集分析檢測包單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "303,014",
+        "廠牌型號":  "日誌蒐集分析檢測包",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "274",
+        "項次":  "345",
+        "品項名稱":  "源碼檢測分析測試檢測包(進階版)單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "163,343",
+        "廠牌型號":  "源碼檢測分析測試檢測包(進階版)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "275",
+        "項次":  "346",
+        "品項名稱":  "源碼檢測分析測試檢測包(高階版)單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "252,959",
+        "廠牌型號":  "源碼檢測分析測試檢測包(高階版)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "276",
+        "項次":  "347",
+        "品項名稱":  "資安事件快速檢測軟體授權(2U)單次最低購買數量：1、單次最高購買數量：100",
+        "單位":  "套",
+        "決標單價":  "75,652",
+        "廠牌型號":  "資安事件快速檢測軟體授權(2U)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "277",
+        "項次":  "362",
+        "品項名稱":  "卡巴斯基 網路安全管理中心 KSC單次最低購買數量：1、單次最高購買數量：10",
+        "單位":  "套",
+        "決標單價":  "191,269",
+        "廠牌型號":  "卡巴斯基 網路安全管理中心 KSC",
+        "契約終止日期":  "115/05/07",
+        "產地":  "俄羅斯"
+    },
+    {
+        "編號":  "278",
+        "項次":  "399",
+        "品項名稱":  "AD攻擊路徑模擬評估工具(ADAPA)初階單次最低購買數量：1、單次最高購買數量：40",
+        "單位":  "套",
+        "決標單價":  "662,607",
+        "廠牌型號":  "AD攻擊路徑模擬評估工具(ADAPA)初階",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "279",
+        "項次":  "400",
+        "品項名稱":  "AD攻擊路徑模擬評估工具(ADAPA)進階單次最低購買數量：1、單次最高購買數量：20",
+        "單位":  "套",
+        "決標單價":  "995,446",
+        "廠牌型號":  "AD攻擊路徑模擬評估工具(ADAPA)進階",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "280",
+        "項次":  "401",
+        "品項名稱":  "EASM外部攻擊面管理含暗網監控檢測包(單網域範圍)單次最低購買數量：1、單次最高購買數量：200",
+        "單位":  "套",
+        "決標單價":  "151,107",
+        "廠牌型號":  "EASM外部攻擊面管理含暗網監控檢測包(單網域範圍)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "281",
+        "項次":  "402",
+        "品項名稱":  "IASM雲地整合權限風險分析與修補系統(50U)單次最低購買數量：1、單次最高購買數量：230",
+        "單位":  "套",
+        "決標單價":  "151,107",
+        "廠牌型號":  "IASM雲地整合權限風險分析與修補系統(50U)",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "282",
+        "項次":  "403",
+        "品項名稱":  "政府組態基準(GCB)模組單次最低購買數量：1、單次最高購買數量：929",
+        "單位":  "套",
+        "決標單價":  "37,274",
+        "廠牌型號":  "政府組態基準(GCB)模組",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "283",
+        "項次":  "404",
+        "品項名稱":  "資安弱點通報機制(VANS)模組單次最低購買數量：1、單次最高購買數量：929",
+        "單位":  "套",
+        "決標單價":  "37,274",
+        "廠牌型號":  "資安弱點通報機制(VANS)模組",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "284",
+        "項次":  "534",
+        "品項名稱":  "Trend Cloud One Conformity單次最低購買數量：1、單次最高購買數量：350",
+        "單位":  "套",
+        "決標單價":  "114,768",
+        "廠牌型號":  "Trend Cloud One Conformity",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    },
+    {
+        "編號":  "285",
+        "項次":  "535",
+        "品項名稱":  "Trend Micro Container Security單次最低購買數量：1、單次最高購買數量：900",
+        "單位":  "套",
+        "決標單價":  "45,048",
+        "廠牌型號":  "Trend Micro Container Security",
+        "契約終止日期":  "115/05/07",
+        "產地":  "臺灣"
+    }
+]
