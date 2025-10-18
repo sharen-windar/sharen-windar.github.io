@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>萬達科技股份有限公司｜資訊系統整合與軟硬體供應</title>
-  <meta name="description" content="萬達科技股份有限公司：資訊系統整合商。共同供應契約、服務項目、服務內容說明、關於我們、聯絡方式。" />
+  <title>WINDAR Technology Co., Ltd.｜Information System Integration and Hardware/Software Supply</title>
+  <meta name="description" content="WINDAR Technology Co., Ltd.：資訊System Integration商。Government Procurement Contract、Service Items、Service Details、About Us、Contact。" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;800&family=Noto+Sans+TC:wght@300;400;500;700;900&display=swap" rel="stylesheet">
@@ -23,7 +23,7 @@
       --accent:#66D1FF;       /* 淺藍輔助色 */
       --ring: 0 0 14px rgba(0,125,184,.28);
       --radius: 14px;
-      --maxw: 1200px;
+      --maxw: 1400px; /* MODIFIED: Increased max width from 1200px to 1300px */
     }
     *{box-sizing:border-box}
     html,body{margin:0;padding:0;background:linear-gradient(135deg,#f2f8ff 0%,#ffffff 55%,#f8fbff 100%);color:var(--text);font-family:'HunInn','Noto Sans TC',system-ui,-apple-system,sans-serif;scroll-behavior:smooth}
@@ -36,8 +36,8 @@
     .nav{display:flex;align-items:center;justify-content:space-between;height:64px}
     .brand{display:flex;gap:10px;align-items:center;font-weight:800;letter-spacing:.5px;color:var(--brand);font-family:"Orbitron",sans-serif}
     .logo{width:30px;height:30px;border-radius:8px;background:conic-gradient(from 90deg, var(--brand), var(--brand-2), var(--accent));box-shadow:0 0 16px rgba(43,110,245,.45)}
-    .menu{display:flex;gap:14px}
-    .menu a{padding:10px 12px;border-radius:10px;color:var(--text);opacity:.9}
+    .menu{display:flex;gap:8px} /* MODIFIED: Reduced gap from 14px to 8px */
+    .menu a{padding:8px 10px;border-radius:10px;color:var(--text);opacity:.9} /* MODIFIED: Reduced padding from 10px 12px to 8px 10px */
     .menu a.active, .menu a:hover{background:linear-gradient(135deg, rgba(0,125,184,.10), rgba(31,182,255,.10));box-shadow:var(--ring)}
     .menu-toggle{display:none;background:transparent;border:0;color:var(--text);font-size:20px}
 
@@ -132,79 +132,70 @@
   </style>
 </head>
 <body>
-  <!-- Header -->
   <header class="header">
     <div class="container nav">
-      <div class="brand"><span class="logo"></span><span>萬達科技股份有限公司</span></div>
+      <div class="brand"><span class="logo"></span><span>WINDAR Technology</span></div>
+
       <nav>
         <button class="menu-toggle" aria-label="開啟選單">☰</button>
         <div class="menu" id="menu">
-          <a href="#home">首頁</a>
-          <a href="product.html">共同供應契約</a>
-          <a href="#items">服務項目</a>
-	<a href="#vendors">經銷資訊</a>
-          <a href="#services">服務內容說明</a>
-          <a href="#about">關於我們</a>
-	<a href="index-en.html">English</a>
+          <a href="#home">Home</a>
+          <a href="#items">Service Items</a>
+	<a href="#vendors">Reseller Information</a>
+          <a href="#services">Service Details</a>
+          <a href="#about">About Us</a>
+          <a href="index.html">繁體中文語系</a>
         </div>
       </nav>
     </div>
   </header>
 
-  <!-- Hero / 首頁 -->
   <section id="home" class="hero container">
-    <span class="pill">企業 IT 夥伴 · 系統整合</span>
-    <h1 class="title">萬達科技股份有限公司</h1>
-    <h1>WINDAR Technology Co., Ltd.</h1>
-    <p class="subtitle">提供硬體採購、商業授權軟體、企業網路與資安、雲端與備援、維運代管等整合服務。我們以穩定為先、效率為本，協助企業安心數位轉型。</p>
+    <span class="pill">Enterprise IT Partner · System Integration</span>
+    <h1 class="title">WINDAR Technology Co., Ltd.</h1>
+    <p class="subtitle">Providing integrated services such as hardware procurement, commercial software licensing, enterprise networking and cybersecurity, cloud and disaster recovery, and managed operations. We prioritize stability and efficiency to support secure digital transformation.</p>
     <div class="cta">
-      <a class="btn primary" href="product.html">共同供應契約</a>
-      <a class="btn" href="#services">查看服務</a>
+      <a class="btn primary" href="#services">View Services</a>
     </div>
-    <!-- 換成你提供的 web.png 並加上色彩和諧處理 -->
     <figure class="hero-media">
-      <img src="web.png" alt="資料中心與網路設備（萬達科技）" loading="eager" decoding="async">
+      <img src="web.png" alt="資料中心與網路設備（WINDAR Technology）" loading="eager" decoding="async">
     </figure>
   </section>
 
-  <!-- 服務項目 -->
   <section id="items">
     <div class="container">
-      <h2>服務項目</h2>
+      <h2>Service Items</h2>
       <div class="grid">
         <article class="card">
-          <h3>臺灣銀行股份有限公司採購部入圍廠商。</h3>
-          <p>提供合規之標案投標與供應服務，支援相關採購需求。</p>
+          <h3>Qualified supplier for Bank of Taiwan Procurement Department.</h3>
+          <p>Provides compliant bidding and supply services to support procurement requirements.</p>
         </article>
         <article class="card">
-          <h3>數位發展部數位產業署軟體採購入圍廠商。</h3>
-          <p>商業授權軟體採購與維護，配合政府採購流程與驗收。</p>
+          <h3>Qualified software procurement supplier for the Administration for Digital Industries.</h3>
+          <p>Commercial software procurement and maintenance, aligned with government processes and acceptance.</p>
         </article>
         <article class="card">
-          <h3>電腦週邊設備及相關耗材等銷售。</h3>
-          <p>提供多品牌週邊與耗材，企業採購與到貨服務。</p>
+          <h3>Sales of computer peripherals and related consumables.</h3>
+          <p>Provides multi-brand peripherals and consumables, supporting corporate procurement and delivery.</p>
         </article>
         <article class="card">
-          <h3>資訊設備硬體、軟體授權、系統整合、網路資安、電腦教室等規劃建置及售後服務。</h3>
-          <p>整體規劃、佈署與維運，含教育訓練與售後支援。</p>
+          <h3>IT hardware, software licensing, system integration, cybersecurity, computer lab planning, deployment, and after-sales services.</h3>
+          <p>Comprehensive planning, deployment, and operations, including training and after-sales support.</p>
         </article>
       </div>
       <div class="cta" style="margin-top:20px">
-        <a class="btn primary" href="product.html">查看共同供應契約</a>
-        <a class="btn" href="#services">服務內容說明</a>
+        <a class="btn primary" href="#services">Service Details</a>
       </div>
     </div>
   </section>
 
-  <!-- 硬體及軟體經銷資訊 -->
   <section id="vendors">
     <div class="container">
-      <h2>硬體及軟體經銷資訊</h2>
-      <p class="lead">提供多品牌之硬體與軟體經銷與服務，支援企業採購、導入與維護。</p>
+      <h2>IT hardware, software reseller Information</h2>
+      <p class="lead">Provides multi-brand hardware and software distribution and services, supporting corporate procurement, deployment, and maintenance.</p>
 
-      <!-- 硬體設備經銷品牌 -->
       <article class="card" style="margin-top:16px">
-        <h3 style="margin-top:0">硬體設備經銷品牌</h3>
+        <h3 style="margin-top:0">Hardware Distribution Brands</h3>
         <div class="about">
           <div class="skills">
 	<a class="chip" href="https://www.asus.com/" target="_blank" rel="noopener">ASUS</a>
@@ -235,9 +226,8 @@
         </div>
       </article>
 
-      <!-- 軟體經銷品牌 -->
       <article class="card" style="margin-top:16px">
-        <h3 style="margin-top:0">軟體經銷品牌</h3>
+        <h3 style="margin-top:0">Software Distribution Brands</h3>
         <div class="about">
           <div class="skills">
 	<a class="chip" href="https://www.adobe.com/tw/" target="_blank" rel="noopener">Adobe</a>
@@ -254,235 +244,98 @@
       </article>
 
       <div class="cta" style="margin-top:20px">
-        <a class="btn primary" href="#contact">聯絡我們</a>
-        <a class="btn" href="#contract">查看共同供應契約</a>
+        <a class="btn primary" href="#contact">Contact Us</a>
+        <a class="btn" href="#services">View Services</a>
       </div>
     </div>
   </section>
 
 
-
-  <!-- 共同供應契約） -->
-  <section id="contract">
-    <div class="container">
-      <h2>共同供應契約</h2>
-
-      <div class="contract-mobile">
-        <p class="lead">臺灣銀行採購部 (政府電子採購網各標案契約起訖日期)</p>
-        <div class="grid">
-          <article class="card">
-            <h3>案名:電腦設備用品(商用電腦)</h3>
-            <ul style="list-style:none;padding:0;margin:0;color:var(--muted)">
-              <li>標案案號:</li>
-              <li>LP5-113046</li>
-              <li>契約編號:</li>
-              <li>25-LP5-00717</li>
-              <li>契約起迄日期:</li>
-              <li>114/03/14 - 115/03/31</li>
-            </ul>
-          </article>
-
-          <article class="card">
-            <h3>案名:電腦設備用品(企業電腦)</h3>
-            <ul style="list-style:none;padding:0;margin:0;color:var(--muted)">
-              <li>標案案號:</li>
-              <li>LP5-114015</li>
-              <li>契約編號:</li>
-              <li>25-LP5-03049</li>
-              <li>契約起迄日期:</li>
-              <li>114/09/03 - 115/08/31</li>
-            </ul>
-          </article>
-
-          <article class="card">
-            <h3>案名:電腦週邊設備用品</h3>
-            <ul style="list-style:none;padding:0;margin:0;color:var(--muted)">
-              <li>標案案號:</li>
-              <li>LP5-113013</li>
-              <li>契約編號:</li>
-              <li>24-LP5-02908</li>
-              <li>契約起迄日期:</li>
-              <li>113/09/16 - 114/09/30</li>
-            </ul>
-          </article>
-
-          <article class="card">
-            <h3>案名:印表機原廠耗材(碳粉)</h3>
-            <ul style="list-style:none;padding:0;margin:0;color:var(--muted)">
-              <li>標案案號:</li>
-              <li>LP5-113047</li>
-              <li>契約編號:</li>
-              <li>25-LP5-00064</li>
-              <li>契約起迄日期:</li>
-              <li>114/03/01 - 115/02/28</li>
-            </ul>
-          </article>
-
-          <article class="card">
-            <h3>案名:投影機</h3>
-            <ul style="list-style:none;padding:0;margin:0;color:var(--muted)">
-              <li>標案案號:</li>
-              <li>LP5-113025</li>
-              <li>契約編號:</li>
-              <li>24-LP5-03670</li>
-              <li>契約起迄日期:</li>
-              <li>113/11/11 - 114/10/31</li>
-            </ul>
-          </article>
-
-          <article class="card">
-            <h3>案名:電腦軟體</h3>
-            <ul style="list-style:none;padding:0;margin:0;color:var(--muted)">
-              <li>標案案號:</li>
-              <li>1130204</li>
-              <li>契約編號:</li>
-              <li>1130204-096</li>
-              <li>契約起迄日期:</li>
-              <li>113/11/07 - 114/11/06</li>
-            </ul>
-          </article>
-
-          <article class="card">
-            <h3>案名:電腦軟體</h3>
-            <ul style="list-style:none;padding:0;margin:0;color:var(--muted)">
-              <li>標案案號:</li>
-              <li>1140201</li>
-              <li>契約編號:</li>
-              <li>1140201-007</li>
-              <li>契約起迄日期:</li>
-              <li>114/05/08 - 115/05/07</li>
-            </ul>
-          </article>
-        </div>
-        <p class="lead">政府採購共同供應契約品項齊全，點擊下方按鈕進入產品清單，並可用關鍵字快速篩選。</p>
-        <div class="cta" style="margin-top:22px">
-          <a class="btn primary" href="product.html">前往產品清單</a>
-          <a class="btn" href="#contact">需要協助？聯絡我們</a>
-        </div>
-      </div>
-
-      <div class="contract-desktop">
-        <div class="table-wrap" style="margin:26px 0;overflow:auto">
-          <h3 style="margin:0 0 12px">臺灣銀行採購部 (政府電子採購網各標案契約起訖日期)</h3>
-          <table style="width:100%;border-collapse:collapse;min-width:720px">
-            <thead>
-              <tr style="background:linear-gradient(180deg,#f3f8ff,#fff)">
-                <th style="border:1px solid rgba(0,125,184,.22);padding:10px 12px;text-align:left">案名</th>
-                <th style="border:1px solid rgba(0,125,184,.22);padding:10px 12px;text-align:left">標案案號</th>
-                <th style="border:1px solid rgba(0,125,184,.22);padding:10px 12px;text-align:left">契約編號</th>
-                <th style="border:1px solid rgba(0,125,184,.22);padding:10px 12px;text-align:left">契約起迄日期</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">電腦設備用品(商用電腦)</td><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">LP5-113046</td><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">25-LP5-00717</td><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">114/03/14 － 115/03/31</td></tr>
-              <tr><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">電腦設備用品(企業電腦)</td><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">LP5-114015</td><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">25-LP5-03049</td><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">114/09/03 － 115/08/31</td></tr>
-              <tr><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">電腦週邊設備用品</td><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">LP5-113013</td><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">24-LP5-02908</td><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">113/09/16 － 114/09/30</td></tr>
-              <tr><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">印表機原廠耗材(碳粉)</td><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">LP5-113047</td><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">25-LP5-00064</td><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">114/03/01 － 115/02/28</td></tr>
-              <tr><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">投影機</td><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">LP5-113025</td><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">24-LP5-03670</td><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">113/11/11 － 114/10/31</td></tr>
-              <tr><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">電腦軟體</td><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">1130204</td><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">1130204-096</td><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">113/11/07 － 114/11/06</td></tr>
-              <tr><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">電腦軟體</td><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">1140201</td><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">1140201-007</td><td style="border:1px solid rgba(0,125,184,.22);padding:10px 12px">114/05/08 － 115/05/07</td></tr>
-            </tbody>
-          </table>
-        </div>
-        <p class="lead">政府採購共同供應契約品項齊全，支援「硬體／軟體」多品牌。點擊下方按鈕進入產品清單，並可用關鍵字快速篩選。</p>
-        <div class="cta" style="margin-top:22px">
-          <a class="btn primary" href="product.html">前往產品清單</a>
-          <a class="btn" href="#contact">需要協助？聯絡我們</a>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- 服務內容說明 -->
   <section id="services">
     <div class="container">
-      <h2>服務內容說明</h2>
-      <p class="lead">以企業穩定為優先的系統整合方案，從規劃、採購到部署與維運，提供到位的顧問與技術支援。</p>
+      <h2>Service Details</h2>
+      <p class="lead">System integration solutions prioritizing enterprise stability, from planning and procurement to deployment and operations, with professional consulting and technical support.</p>
       <div class="grid">
         <article class="card">
-          <h3>硬體採購與佈署</h3>
-          <p>桌機／筆電／顯示器／伺服器／儲存與網通設備，現場佈署與搬遷。</p>
+          <h3>Hardware Procurement and Deployment</h3>
+          <p>Desktops, laptops, monitors, servers, storage, and networking equipment — on-site deployment and relocation.</p>
         </article>
         <article class="card">
-          <h3>商業授權軟體</h3>
-          <p>微軟、虛擬化、繪圖與工程、自由軟體方案導入與授權管理。</p>
+          <h3>Commercial Licensed Software</h3>
+          <p>Microsoft, virtualization, design and engineering, and open-source solutions implementation and license management.</p>
         </article>
         <article class="card">
-          <h3>企業資安與防護</h3>
-          <p>身分與存取、端點／網路／主機防護、郵件與檔案安全、SIEM 與零信任。</p>
+          <h3>Enterprise Cybersecurity and Protection</h3>
+          <p>Identity and access, endpoint/network/server protection, email and file security, SIEM, and Zero Trust.</p>
         </article>
         <article class="card">
-          <h3>雲與混合雲</h3>
-          <p>公有雲／私有雲、備援與災難復原、異地備份與監控。</p>
+          <h3>Cloud and Hybrid Cloud</h3>
+          <p>Public/private cloud, backup and disaster recovery, offsite backup, and monitoring.</p>
         </article>
         <article class="card">
-          <h3>備份解決方案</h3>
-          <p>企業備份架構規劃、異地備援、災難復原（DR）、備援演練與還原流程文件化。</p>
+          <h3>Backup Solutions</h3>
+          <p>Enterprise backup architecture planning, offsite DR, disaster recovery, drills, and documentation of recovery processes.</p>
         </article>
         <article class="card">
-          <h3>監視器及網路佈建</h3>
-          <p>監視器系統規劃與佈建、弱電布線、網路交換器／無線 AP 佈署與驗收。</p>
+          <h3>Surveillance and Network Deployment</h3>
+          <p>Surveillance system planning and deployment, low-voltage cabling, network switch/wireless AP deployment, and acceptance testing.</p>
         </article>
       </div>
       <div class="cta" style="margin-top:20px">
-        <a class="btn primary" href="product.html">查看共同供應契約</a>
-        <a class="btn" href="#about">關於我們</a>
+        <a class="btn primary" href="#about">About Us</a>
       </div>
     </div>
   </section>
 
-  <!-- 關於我們 -->
   <section id="about">
     <div class="container">
-      <h2>關於我們</h2>
-      <p class="lead">萬達科技股份有限公司是一家專注於企業級 IT 整合的服務商，擁有跨硬體、軟體與資安的整合能力，協助客戶穩健成長。</p>
+      <h2>About Us</h2>
+      <p class="lead">WINDAR Technology Co., Ltd.is a service provider focused on enterprise IT integration, with expertise across hardware, software, and cybersecurity to support customer growth.</p>
       <div class="about">
         <div>
-          <h3>我們的承諾</h3>
-          <p>以可靠、透明、可量測為原則，從需求盤點到驗收移交皆有明確里程碑，並提供完善維運機制。</p>
+          <h3>Our Commitment</h3>
+          <p>We uphold reliability, transparency, and measurability, ensuring clear milestones from requirement analysis to acceptance and offering complete operations support.</p>
           <div class="skills">
-            <span class="chip">採購與標案</span>
-            <span class="chip">系統整合</span>
-            <span class="chip">企業資安</span>
-            <span class="chip">雲端備援</span>
-            <span class="chip">維運管理</span>
+            <span class="chip">Procurement & Bidding</span>
+            <span class="chip">System Integration</span>
+            <span class="chip">Enterprise Security</span>
+            <span class="chip">Cloud Backup</span>
+            <span class="chip">Operations Management</span>
           </div>
           <div class="cta" style="margin-top:14px">
-            <a class="btn primary" href="#contact">聯絡我們</a>
-            <a class="btn" href="product.html">共同供應契約</a>
+            <a class="btn primary" href="#contact">Contact Us</a>
           </div>
         </div>
         <aside class="card">
-          <h3 style="margin-top:0">公司資訊</h3>
+          <h3 style="margin-top:0">Company Information</h3>
           <ul style="list-style:none;padding:0;margin:0;color:var(--muted)">
-            <li>公司名稱：萬達科技股份有限公司</li>
-            <li>統一編號：86273866</li>
-            <li>地址：台南市永康區中華路144-14號6樓</li>
-            <li>服務範疇：硬體、軟體、資安、雲與維運</li>
-            <li>服務對象：企業／公部門／校園</li>
+            <li>Company Name: WINDAR Technology Co., Ltd.</li>
+            <li>Address: 6F., No. 144-14, Zhonghua Rd., Yongkang Dist., Tainan City 710029, Taiwan (R.O.C.)</li>
+            <li>Unified Business Number: 86273866</li>
+            <li>Service Scope: IT hardware, software, cybersecurity, cloud, maintenance</li>
+            <li>Focus on the Customer: Enterprise / Government / Education</li>
           </ul>
           <hr style="border-color:rgba(0,125,184,.15);margin:14px 0">
-          <p style="margin:0">歡迎長期合作與專案詢問。</p>
+          <p style="margin:0">We welcome long-term cooperation and project inquiries.</p>
         </aside>
       </div>
     </div>
   </section>
 
-  <!-- 聯絡方式（直接顯示資訊） -->
   <section id="contact">
     <div class="container">
-      <h2>聯絡方式</h2>
+      <h2>Contact</h2>
       <div class="card">
-        <p style="margin:6px 0"><strong>TEL：</strong>06-3138761</p>
+        <p style="margin:6px 0"><strong>TEL: </strong>06-3138761</p>
         <p style="margin:6px 0"><strong>LINE ID：</strong>sharen_ehk</p>
         <p style="margin:6px 0"><strong>E-Mail：</strong><a href="mailto:sharen@windar.com.tw">sharen@windar.com.tw</a></p>
-        <p style="margin:6px 0"><strong>公司地址：</strong>台南市永康區中華路144-14號6樓</p>
+        <p style="margin:6px 0"><strong>Address: </strong>6F., No. 144-14, Zhonghua Rd., Yongkang Dist., Tainan City 710029, Taiwan (R.O.C.)</p>
       </div>
     </div>
   </section>
 
   <footer class="footer">
-    <div class="container">© <span id="y"></span> 萬達科技股份有限公司 · 版權所有</div>
+    <div class="container">© <span id="y"></span> WINDAR Technology Co., Ltd. · All Rights Reserved</div>
   </footer>
 
   <script>
@@ -515,4 +368,3 @@
   </script>
 </body>
 </html>
-
