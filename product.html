@@ -93,16 +93,10 @@
   }
 
   /* 分頁 */
-  #pagination{margin:15px auto;text-align:center}
-  #pagination button{margin:0 4px;padding:8px 12px;border-radius:10px;border:1px solid rgba(43,110,245,.35);background:#fff;cursor:pointer}
-  #pagination button[disabled]{opacity:.5;cursor:not-allowed;background:#f3f8ff}
+  #pagination, #paginationBottom{margin:15px auto;text-align:center}
+  #pagination button, #paginationBottom button{margin:0 4px;padding:8px 12px;border-radius:10px;border:1px solid rgba(43,110,245,.35);background:#fff;cursor:pointer}
+  #pagination button[disabled], #paginationBottom button[disabled]{opacity:.5;cursor:not-allowed;background:#f3f8ff}
 
-  /* 固定適用機型欄位寬度 */
-  th:nth-child(5), td:nth-child(5) {
-	  width: 10%;
-	  min-width: 30px;
-  }
-	  
   /* RWD 選單 */
   @media (max-width: 640px){
     .menu{display:none;position:absolute;right:20px;top:64px;background:#fff;flex-direction:column;padding:10px;border-radius:12px;border:1px solid rgba(0,125,184,.18)}
@@ -121,9 +115,9 @@
           <a href="index.html#home">首頁</a>
           <a class="active" href="product.html" aria-current="page">共同供應契約</a>
           <a href="index.html#items">服務項目</a>
-	<a href="index.html#vendors">經銷資訊</a>
           <a href="index.html#services">服務內容說明</a>
           <a href="index.html#about">關於我們</a>
+	  <a href="index-en.html">English</a>
         </div>
       </nav>
     </div>
@@ -163,6 +157,9 @@
 
     <!-- 手機：卡片 -->
     <div id="listCards" style="margin-bottom: 30px;"></div>
+
+    <!-- 下方分頁 -->
+    <div id="paginationBottom" style="margin: 15px auto;text-align: center;"></div>
   </main>
 
   <footer class="container" style="color:var(--muted);padding:20px 0;border-top:1px solid rgba(43,110,245,.22)">© <span id="y"></span> 萬達科技股份有限公司</footer>
@@ -182,6 +179,7 @@
     const $table = document.getElementById('listTable');
     const $cards = document.getElementById('listCards');
     const $pager = document.getElementById('pagination');
+    const $pagerBottom = document.getElementById('paginationBottom');
 
     // 資料儲存
     let MAP = {};        // { category: [{ order, group, file }] }
@@ -358,9 +356,16 @@
         html += (i===page) ? `<button disabled="">${i}</button>` : `<button>${i}</button>`;
       }
       $pager.innerHTML = html;
-      Array.from($pager.querySelectorAll('button')).forEach((btn, i) => {
-        btn.addEventListener('click', () => { page = i+1; renderDesktopTable(); renderCards(); renderPager(); });
-      });
+      $pagerBottom.innerHTML = html;
+
+      function bindPagerEvents(container){
+        Array.from(container.querySelectorAll('button')).forEach((btn, i) => {
+          btn.addEventListener('click', () => { page = i+1; renderDesktopTable(); renderCards(); renderPager(); });
+        });
+      }
+
+      bindPagerEvents($pager);
+      bindPagerEvents($pagerBottom);
     }
 
     function pagedData(){ const start = (page-1)*pageSize; return viewData.slice(start, start+pageSize); }
